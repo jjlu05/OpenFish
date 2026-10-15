@@ -1,0 +1,105 @@
+.bait-card {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 16px;
+  margin: 10px;
+  width: 250px;
+}
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* what if remove */
+}
+.green {
+  color: green;
+}
+
+.yellow {
+  color: goldenrod;
+}
+
+.gray {
+  color: gray;
+}
+
+
+.app {
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.app-header {
+  padding: 16px 24px;
+  border-bottom: 1px solid #ddd;
+}
+
+.app-header h1 {
+  margin: 0;
+}
+
+.app-header p {
+  color: #666;
+  margin-bottom: 0;
+}
+
+.filters {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 24px;
+  flex-wrap: wrap;
+}
+
+.filters input,
+.filters select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+}
+
+.filters input {
+  width: 240px;
+}
+
+.app-content {
+  display: flex;
+  gap: 20px;
+  padding: 0 24px 24px;
+}
+
+.map-section {
+  flex: 3;
+  height: 75vh;
+  min-width: 0;
+}
+
+.details-section {
+  flex: 1;
+  min-width: 280px;
+  max-height: 75vh;
+  overflow-y: auto;
+}
+
+/* Mobile layout */
+@media (max-width: 850px) {
+  .app-content {
+    flex-direction: column;
+  }
+
+  .map-section {
+    flex: none;
+    height: 50vh;
+  }
+
+  .details-section {
+    max-height: none;
+    min-width: 0;
+  }
+
+  .filters input {
+    width: 100%;
+  }
+}
