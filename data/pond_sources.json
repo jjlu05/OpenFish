@@ -1,0 +1,2403 @@
+[
+  {
+    "id": "a1-site-stump-pond",
+    "name": "A1 Site",
+    "town": "Westborough",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/a1-site-stump-pond"
+  },
+  {
+    "id": "agawam-mill-pond",
+    "name": "Agawam Mill Pond",
+    "town": "Wareham",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/agawam-mill-pond"
+  },
+  {
+    "id": "aldrich-lake",
+    "name": "Aldrich Lake",
+    "town": "Granby",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/aldrich-lake"
+  },
+  {
+    "id": "althea-lake",
+    "name": "Althea Lake",
+    "town": "Tyngsborough",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/althea-lake"
+  },
+  {
+    "id": "alum-big-pond",
+    "name": "Alum (Big) Pond",
+    "town": "Sturbridge",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/alum-big-pond"
+  },
+  {
+    "id": "ames-long-pond",
+    "name": "Ames Long Pond",
+    "town": "Stoughton",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/ames-long-pond"
+  },
+  {
+    "id": "arcadia-lake",
+    "name": "Arcadia Lake",
+    "town": "Belchertown",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/arcadia-lake"
+  },
+  {
+    "id": "ashfield-pond",
+    "name": "Ashfield Pond",
+    "town": "Ashfield",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/ashfield-pond"
+  },
+  {
+    "id": "ashland-reservoir",
+    "name": "Ashland Reservoir",
+    "town": "Ashland",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/ashland-reservoir"
+  },
+  {
+    "id": "ashmere-lake",
+    "name": "Ashmere Lake",
+    "town": "Hinsdale",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/ashmere-lake"
+  },
+  {
+    "id": "ashumet-pond",
+    "name": "Ashumet Pond",
+    "town": "Mashpee",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/ashumet-pond"
+  },
+  {
+    "id": "asnacomet-comet-pond",
+    "name": "Asnacomet (Comet) Pond",
+    "town": "Hubbardston",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/asnacomet-comet-pond"
+  },
+  {
+    "id": "baddacook-pond",
+    "name": "Baddacook Pond",
+    "town": "Groton",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/baddacook-pond"
+  },
+  {
+    "id": "badluck-pond",
+    "name": "Badluck (Crystal) Pond",
+    "town": "Douglas",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/badluck-pond"
+  },
+  {
+    "id": "baker-pond",
+    "name": "Baker Pond",
+    "town": "Orleans",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/baker-pond"
+  },
+  {
+    "id": "baldpate-pond",
+    "name": "Baldpate Pond",
+    "town": "Boxford",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/baldpate-pond"
+  },
+  {
+    "id": "barehill-pond",
+    "name": "Bare Hill Pond",
+    "town": "Harvard",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/barehill-pond"
+  },
+  {
+    "id": "barrett-pond-carver",
+    "name": "Barrett Pond",
+    "town": "Carver",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/barrett-pond-carver"
+  },
+  {
+    "id": "barrett-pond-leominster",
+    "name": "Barrett Pond",
+    "town": "Leominster",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/barrett-pond-leominster"
+  },
+  {
+    "id": "bartlett-pond",
+    "name": "Bartlett Pond",
+    "town": "Northborough",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/bartlett-pond"
+  },
+  {
+    "id": "bassett-pond",
+    "name": "Bassett Pond",
+    "town": "New Salem",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/bassett-pond"
+  },
+  {
+    "id": "beaver-pond",
+    "name": "Beaver Pond",
+    "town": "Royalston",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/beaver-pond"
+  },
+  {
+    "id": "beck-pond",
+    "name": "Beck Pond",
+    "town": "Hamilton",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/beck-pond"
+  },
+  {
+    "id": "bell-pond",
+    "name": "Bell Pond",
+    "town": "Worcester",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/bell-pond"
+  },
+  {
+    "id": "benedict-pond",
+    "name": "Benedict Pond",
+    "town": "Great Barrington/Monterey",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/benedict-pond"
+  },
+  {
+    "id": "benton-little-pond",
+    "name": "Benton (Little) Pond",
+    "town": "Otis",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/benton-little-pond"
+  },
+  {
+    "id": "berry-pond",
+    "name": "Berry Pond",
+    "town": "Hancock",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/berry-pond"
+  },
+  {
+    "id": "big-bearhole-pond",
+    "name": "Big Bearhole Pond",
+    "town": "Tauton",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/big-bearhole-pond"
+  },
+  {
+    "id": "big-benton-pond",
+    "name": "Big Benton Pond",
+    "town": "Otis",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/big-benton-pond"
+  },
+  {
+    "id": "big-sandy-pond",
+    "name": "Big Sandy Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/big-sandy-pond"
+  },
+  {
+    "id": "billington-sea-little-pond",
+    "name": "Billington Sea",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/billington-sea-little-pond"
+  },
+  {
+    "id": "bloody-pond",
+    "name": "Bloody Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/bloody-pond"
+  },
+  {
+    "id": "blueberry-pond",
+    "name": "Blueberry Pond",
+    "town": "Brewster",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/blueberry-pond"
+  },
+  {
+    "id": "brierly-pond",
+    "name": "Brierly Pond",
+    "town": "Millbury",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/brierly-pond"
+  },
+  {
+    "id": "brigham-pond",
+    "name": "Brigham Pond",
+    "town": "Hubbardston",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/brigham-pond"
+  },
+  {
+    "id": "brookline-reservoir",
+    "name": "Brookline Reservoir",
+    "town": "Brookline",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/brookline-reservoir"
+  },
+  {
+    "id": "browning-pond",
+    "name": "Browning Pond",
+    "town": "Oakham",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/browning-pond"
+  },
+  {
+    "id": "buck-pond",
+    "name": "Buck Pond",
+    "town": "Westfield",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/buck-pond"
+  },
+  {
+    "id": "buckley-dunton-reservoir",
+    "name": "Buckley Dunton Lake",
+    "town": "Becket",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/buckley-dunton-reservoir"
+  },
+  {
+    "id": "buffumville-reservoir",
+    "name": "Buffumville Reservoir",
+    "town": "Charlton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/buffumville-reservoir"
+  },
+  {
+    "id": "carbuncle-pond",
+    "name": "Carbuncle Pond",
+    "town": "Oxford",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/carbuncle-pond"
+  },
+  {
+    "id": "cedar-pond-sturbridge",
+    "name": "Cedar Pond",
+    "town": "Sturbridge",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/cedar-pond-sturbridge"
+  },
+  {
+    "id": "center-pond",
+    "name": "Center Pond",
+    "town": "Beckett",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/center-pond"
+  },
+  {
+    "id": "chapin-haviland-pond",
+    "name": "Chapin (Haviland) Pond",
+    "town": "Ludlow",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/chapin-haviland-pond"
+  },
+  {
+    "id": "charge-pond",
+    "name": "Charge Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/charge-pond"
+  },
+  {
+    "id": "chebacco-lake",
+    "name": "Chebacco Lake",
+    "town": "Essex",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/chebacco-lake"
+  },
+  {
+    "id": "cheshire-reservoir",
+    "name": "Cheshire Reservoir",
+    "town": "Cheshire",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/cheshire-reservoir"
+  },
+  {
+    "id": "chicopee-reservoir",
+    "name": "Chicopee Reservoir",
+    "town": "Chicopee",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/chicopee-reservoir"
+  },
+  {
+    "id": "clamshell-pond",
+    "name": "Clamshell Pond",
+    "town": "Clinton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/clamshell-pond"
+  },
+  {
+    "id": "clapps-pond",
+    "name": "Clapps Pond",
+    "town": "Provincetown",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/clapps-pond"
+  },
+  {
+    "id": "cleveland-pond",
+    "name": "Cleveland Pond",
+    "town": "Abington",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/cleveland-pond"
+  },
+  {
+    "id": "cliff-pond",
+    "name": "Cliff Pond",
+    "town": "Brewster",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/cliff-pond"
+  },
+  {
+    "id": "coachlace-pond",
+    "name": "Coachlace Pond",
+    "town": "Clinton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/coachlace-pond"
+  },
+  {
+    "id": "coes-reservoir",
+    "name": "Coes Reservoir",
+    "town": "Worcester",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/coes-reservoir"
+  },
+  {
+    "id": "college-pond",
+    "name": "College Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/college-pond"
+  },
+  {
+    "id": "lake-congamond",
+    "name": "Congamond Lakes",
+    "town": "Southwick",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-congamond"
+  },
+  {
+    "id": "cook-pond",
+    "name": "Cook Pond",
+    "town": "Fall River",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/cook-pond"
+  },
+  {
+    "id": "coonamessett-pond",
+    "name": "Coonamessett Pond",
+    "town": "Falmouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/coonamessett-pond"
+  },
+  {
+    "id": "copicut-reservoir",
+    "name": "Copicut Reservoir",
+    "town": "Fall River",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/copicut-reservoir"
+  },
+  {
+    "id": "cranberry-pond-sunderland",
+    "name": "Cranberry Pond",
+    "town": "Sunderland",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/cranberry-pond-sunderland"
+  },
+  {
+    "id": "crows-hill-pond",
+    "name": "Crow Hills Pond",
+    "town": "Princeton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/crows-hill-pond"
+  },
+  {
+    "id": "crystal-lake-haverhill",
+    "name": "Crystal Lake",
+    "town": "Haverhill",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/crystal-lake-haverhill"
+  },
+  {
+    "id": "crystal-lake-orleans",
+    "name": "Crystal Lake",
+    "town": "Orleans",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/crystal-lake-orleans"
+  },
+  {
+    "id": "curlew-pond",
+    "name": "Curlew Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/curlew-pond"
+  },
+  {
+    "id": "dark-brook-reservoir",
+    "name": "Dark Brook Reservoir",
+    "town": "Auburn",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/dark-brook-reservoir"
+  },
+  {
+    "id": "dean-pond",
+    "name": "Dean Pond",
+    "town": "Brimfield",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/dean-pond"
+  },
+  {
+    "id": "dearth-hill-pond",
+    "name": "Dearth Hill Pond",
+    "town": "Brimfield",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/dearth-hill-pond"
+  },
+  {
+    "id": "deep-pond",
+    "name": "Deep Pond",
+    "town": "Falmouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/deep-pond"
+  },
+  {
+    "id": "delaney-pond",
+    "name": "Delaney Pond",
+    "town": "Stow",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/delaney-pond"
+  },
+  {
+    "id": "demond-pond",
+    "name": "Demond Pond",
+    "town": "Rutland",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/demond-pond"
+  },
+  {
+    "id": "dennis-pond",
+    "name": "Dennis Pond",
+    "town": "Yarmouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/dennis-pond"
+  },
+  {
+    "id": "dimmock-pond",
+    "name": "Dimmock Pond",
+    "town": "Springfield",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/dimmock-pond"
+  },
+  {
+    "id": "doane-pond",
+    "name": "Doane Pond",
+    "town": "North Brookfield",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/doane-pond"
+  },
+  {
+    "id": "duck-pond",
+    "name": "Duck Pond (Groton)",
+    "town": "Groton",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/duck-pond"
+  },
+  {
+    "id": "dufresne-park-pond",
+    "name": "Dufresne Park (Ingraham Brook) Pond",
+    "town": "Granby",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/dufresne-park-pond"
+  },
+  {
+    "id": "dug-pond",
+    "name": "Dug Pond",
+    "town": "Natick",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/dug-pond"
+  },
+  {
+    "id": "dunn-pond",
+    "name": "Dunn Pond",
+    "town": "Gardner",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/dunn-pond"
+  },
+  {
+    "id": "eames-pond",
+    "name": "Eames Pond",
+    "town": "Paxton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/eames-pond"
+  },
+  {
+    "id": "east-brimfield-reservoir",
+    "name": "East Brimfield Reservoir",
+    "town": "Sturbridge",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/east-brimfield-reservoir"
+  },
+  {
+    "id": "east-monponsett-pond",
+    "name": "East Monponsett Pond",
+    "town": "halifax",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/east-monponsett-pond"
+  },
+  {
+    "id": "east-waushacum-pond",
+    "name": "East Waushacum Pond",
+    "town": "Sterling",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/east-waushacum-pond"
+  },
+  {
+    "id": "eddy-pond",
+    "name": "Eddy Pond",
+    "town": "Auburn",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/eddy-pond"
+  },
+  {
+    "id": "ezekiel-pond",
+    "name": "Ezekiel Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/ezekiel-pond"
+  },
+  {
+    "id": "falls-pond",
+    "name": "Falls Pond",
+    "town": "North Attleborough",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/falls-pond"
+  },
+  {
+    "id": "farm-pond-framingham",
+    "name": "Farm Pond",
+    "town": "Framingham",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/farm-pond-framingham"
+  },
+  {
+    "id": "fearing-pond",
+    "name": "Fearing Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/fearing-pond"
+  },
+  {
+    "id": "field-pond",
+    "name": "Field Pond",
+    "town": "Andover",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/field-pond"
+  },
+  {
+    "id": "fisk-pond",
+    "name": "Fisk Pond",
+    "town": "Natick",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/fisk-pond"
+  },
+  {
+    "id": "fitchburg-reservoir",
+    "name": "Fitchburg Reservoir",
+    "town": "Fitchburg",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/fitchburg-reservoir"
+  },
+  {
+    "id": "fivemile-pond-springfield",
+    "name": "Fivemile Pond",
+    "town": "Springfield",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/fivemile-pond-springfield"
+  },
+  {
+    "id": "flax-pond-bourne",
+    "name": "Flax Pond",
+    "town": "Bourne",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/flax-pond-bourne"
+  },
+  {
+    "id": "flax-pond-brewster",
+    "name": "Flax Pond",
+    "town": "Brewster",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/flax-pond-brewster"
+  },
+  {
+    "id": "flax-pond-lynn",
+    "name": "Flax Pond",
+    "town": "Lynn",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/flax-pond-lynn"
+  },
+  {
+    "id": "flint-pond-shrewsbury",
+    "name": "Flint Pond",
+    "town": "Shrewsbury",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/flint-pond-shrewsbury"
+  },
+  {
+    "id": "flint-pond-tyngsborough",
+    "name": "Flint Pond",
+    "town": "Tyngsborough",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/flint-pond-tyngsborough"
+  },
+  {
+    "id": "forest-lake",
+    "name": "Forest Lake",
+    "town": "Meuthen",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/forest-lake"
+  },
+  {
+    "id": "forge-pond",
+    "name": "Forge Pond",
+    "town": "Granby",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/forge-pond"
+  },
+  {
+    "id": "fort-pond",
+    "name": "Fort Pond",
+    "town": "Lancaster",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/fort-pond"
+  },
+  {
+    "id": "fresh-pond-plymouth",
+    "name": "Fresh Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/fresh-pond-plymouth"
+  },
+  {
+    "id": "furnace-pond",
+    "name": "Furnace Pond",
+    "town": "Pembroke",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/furnace-pond"
+  },
+  {
+    "id": "garretts-pond",
+    "name": "Garretts Pond",
+    "town": "Barnstable",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/garretts-pond"
+  },
+  {
+    "id": "gleason-pond",
+    "name": "Gleason Pond",
+    "town": "Framingham",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/gleason-pond"
+  },
+  {
+    "id": "glen-charlie-pond",
+    "name": "Glen Charlie Pond",
+    "town": "Wareham",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/glen-charlie-pond"
+  },
+  {
+    "id": "goose-pond-chatham",
+    "name": "Goose Pond",
+    "town": "Chatham",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/goose-pond-chatham"
+  },
+  {
+    "id": "goose-pond",
+    "name": "Goose Pond",
+    "town": "Lee",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/goose-pond"
+  },
+  {
+    "id": "great-herring-pond",
+    "name": "Great Herring Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/great-herring-pond"
+  },
+  {
+    "id": "great-pond-truro",
+    "name": "Great Pond",
+    "town": "Truro",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/great-pond-truro"
+  },
+  {
+    "id": "greenwater-pond",
+    "name": "Greenwater Pond",
+    "town": "Becket",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/greenwater-pond"
+  },
+  {
+    "id": "grews-pond",
+    "name": "Grews Pond",
+    "town": "Falmouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/grews-pond"
+  },
+  {
+    "id": "gull-pond",
+    "name": "Gull Pond",
+    "town": "Wellfleet",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/gull-pond"
+  },
+  {
+    "id": "halfway-pond",
+    "name": "Halfway Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/halfway-pond"
+  },
+  {
+    "id": "hallockville-pond",
+    "name": "Hallockville Pond",
+    "town": "Plainfield",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/hallockville-pond"
+  },
+  {
+    "id": "hamblin-pond",
+    "name": "Hamblin Pond",
+    "town": "Barnstable",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/hamblin-pond"
+  },
+  {
+    "id": "hamilton-reservoir",
+    "name": "Hamilton Reservoir",
+    "town": "Holland",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/hamilton-reservoir"
+  },
+  {
+    "id": "hardwick-pond",
+    "name": "Hardwick Pond",
+    "town": "Hardwick",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/hardwick-pond"
+  },
+  {
+    "id": "hathaway-pond",
+    "name": "Hathaway Pond",
+    "town": "Barnstable",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/hathaway-pond"
+  },
+  {
+    "id": "heald-pond",
+    "name": "Heald Pond",
+    "town": "Pepperell",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/heald-pond"
+  },
+  {
+    "id": "heart-pond",
+    "name": "Heart Pond",
+    "town": "Chelmsford",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/heart-pond"
+  },
+  {
+    "id": "herring-pond",
+    "name": "Herring Pond",
+    "town": "Eastham",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/herring-pond"
+  },
+  {
+    "id": "higgins-pond-brewster",
+    "name": "Higgins Pond",
+    "town": "Brewster",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/higgins-pond-brewster"
+  },
+  {
+    "id": "hinkleys-pond",
+    "name": "Hinkleys Pond",
+    "town": "Hardwich",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/hinkleys-pond"
+  },
+  {
+    "id": "holland-pond",
+    "name": "Holland Pond",
+    "town": "Holland",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/holland-pond"
+  },
+  {
+    "id": "hopedale-pond",
+    "name": "Hopedale Pond",
+    "town": "Hopedale",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/hopedale-pond"
+  },
+  {
+    "id": "hopkinton-reservoir",
+    "name": "Hopkinton Reservoir",
+    "town": "Ashland",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/hopkinton-reservoir"
+  },
+  {
+    "id": "horn-pond",
+    "name": "Horn Pond",
+    "town": "Woburn",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/horn-pond"
+  },
+  {
+    "id": "horse-pond",
+    "name": "Horse Pond",
+    "town": "North Brookfield",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/horse-pond"
+  },
+  {
+    "id": "hoveys-pond",
+    "name": "Hoveys Pond",
+    "town": "Boxford",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/hoveys-pond"
+  },
+  {
+    "id": "indian-lake",
+    "name": "Indian Lake",
+    "town": "Worcester",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/indian-lake"
+  },
+  {
+    "id": "island-grove-pond",
+    "name": "Island Grove Pond",
+    "town": "Abington",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/island-grove-pond"
+  },
+  {
+    "id": "jacobs-pond",
+    "name": "Jacobs Pond",
+    "town": "Norwell",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/jacobs-pond"
+  },
+  {
+    "id": "jamaica-pond",
+    "name": "Jamaica Pond",
+    "town": "Boston",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/jamaica-pond"
+  },
+  {
+    "id": "jemima-pond",
+    "name": "Jemima Pond",
+    "town": "Eastham",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/jemima-pond"
+  },
+  {
+    "id": "jenkins-pond",
+    "name": "Jenkins Pond",
+    "town": "Falmouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/jenkins-pond"
+  },
+  {
+    "id": "johns-pond",
+    "name": "Johns Pond",
+    "town": "Carver",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/johns-pond"
+  },
+  {
+    "id": "johnson-pond",
+    "name": "Johnson Pond",
+    "town": "Raynham",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/johnson-pond"
+  },
+  {
+    "id": "jordan-pond",
+    "name": "Jordan Pond",
+    "town": "Shrewsbury",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/jordan-pond"
+  },
+  {
+    "id": "knops-pondlost-lake",
+    "name": "Knopps Pond-Lost Lake",
+    "town": "Groton",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/knops-pondlost-lake"
+  },
+  {
+    "id": "lake-attitash",
+    "name": "Lake Attitash",
+    "town": "Amesbury",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-attitash"
+  },
+  {
+    "id": "boon-lake",
+    "name": "Lake Boon",
+    "town": "Stow",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/boon-lake"
+  },
+  {
+    "id": "lake-bray",
+    "name": "Lake Bray",
+    "town": "Holyoke",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-bray"
+  },
+  {
+    "id": "lake-buel",
+    "name": "Lake Buel",
+    "town": "Monterey",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-buel"
+  },
+  {
+    "id": "lake-chauncy",
+    "name": "Lake Chauncy",
+    "town": "Westborough",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-chauncy"
+  },
+  {
+    "id": "lake-cochituate",
+    "name": "Lake Cochituate",
+    "town": "Wayland",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-cochituate"
+  },
+  {
+    "id": "lake-dennison",
+    "name": "Lake Denison",
+    "town": "Winchendon",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-dennison"
+  },
+  {
+    "id": "lake-ellis",
+    "name": "Lake Ellis",
+    "town": "Athol",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-ellis"
+  },
+  {
+    "id": "lake-gardner",
+    "name": "Lake Gardner",
+    "town": "Amesbury",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-gardner"
+  },
+  {
+    "id": "lake-garfield",
+    "name": "Lake Garfield",
+    "town": "Monterey",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-garfield"
+  },
+  {
+    "id": "lake-george",
+    "name": "Lake George",
+    "town": "Wales",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-george"
+  },
+  {
+    "id": "lake-lashaway",
+    "name": "Lake Lashaway",
+    "town": "North Brookfield",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-lashaway"
+  },
+  {
+    "id": "lake-lorraine",
+    "name": "Lake Lorraine",
+    "town": "Springfield",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-lorraine"
+  },
+  {
+    "id": "lake-massapoag",
+    "name": "Lake Massapoag",
+    "town": "Sharon",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-massapoag"
+  },
+  {
+    "id": "lake-mattawa",
+    "name": "Lake Mattawa",
+    "town": "Orange",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-mattawa"
+  },
+  {
+    "id": "lake-nippenicket",
+    "name": "Lake Nippenicket",
+    "town": "Bridgewater",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-nippenicket"
+  },
+  {
+    "id": "lake-pearl",
+    "name": "Lake Pearl",
+    "town": "Wrentham",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-pearl"
+  },
+  {
+    "id": "pentucket-lake",
+    "name": "Lake Pentucket",
+    "town": "Haverhill",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/pentucket-lake"
+  },
+  {
+    "id": "lake-quannapowitt",
+    "name": "Lake Quannapowitt",
+    "town": "Wakefield",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-quannapowitt"
+  },
+  {
+    "id": "lake-quinsigamond",
+    "name": "Lake Quinsigamond",
+    "town": "Shrewsbury",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-quinsigamond"
+  },
+  {
+    "id": "lake-ripple",
+    "name": "Lake Ripple",
+    "town": "Grafton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-ripple"
+  },
+  {
+    "id": "lake-rohunta",
+    "name": "Lake Rohunta",
+    "town": "Athol",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-rohunta"
+  },
+  {
+    "id": "lake-sabbatia",
+    "name": "Lake Sabbatia",
+    "town": "Taunton",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-sabbatia"
+  },
+  {
+    "id": "lake-saltonstall",
+    "name": "Lake Saltonstall",
+    "town": "Haverhill",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-saltonstall"
+  },
+  {
+    "id": "lake-warner",
+    "name": "Lake Warner",
+    "town": "Hadley",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-warner"
+  },
+  {
+    "id": "lake-winthrop",
+    "name": "Lake Winthrop",
+    "town": "Holliston",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-winthrop"
+  },
+  {
+    "id": "lake-wyola",
+    "name": "Lake Wyola",
+    "town": "Shutesbury",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-wyola"
+  },
+  {
+    "id": "lancaster-mill-pond",
+    "name": "Lancaster Mill Pond",
+    "town": "Clinton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/lancaster-mill-pond"
+  },
+  {
+    "id": "laurel-lake",
+    "name": "Laurel Lake",
+    "town": "Erving",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/laurel-lake"
+  },
+  {
+    "id": "laurel-lake-lee",
+    "name": "Laurel Lake",
+    "town": "Lee",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/laurel-lake-lee"
+  },
+  {
+    "id": "lawrence-pond",
+    "name": "Lawrence Pond",
+    "town": "Sandwich",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lawrence-pond"
+  },
+  {
+    "id": "leadmine-pond",
+    "name": "Leadmine Pond",
+    "town": "Sturbridge",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/leadmine-pond"
+  },
+  {
+    "id": "leverett-pond",
+    "name": "Leverett Pond",
+    "town": "Leverett",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/leverett-pond"
+  },
+  {
+    "id": "little-alum-pond",
+    "name": "Little Alum Pond",
+    "town": "Brimfield",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/little-alum-pond"
+  },
+  {
+    "id": "little-cliff-pond",
+    "name": "Little Cliff Pond",
+    "town": "Brewster",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/little-cliff-pond"
+  },
+  {
+    "id": "little-long-pond",
+    "name": "Little Long Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/little-long-pond"
+  },
+  {
+    "id": "little-pond",
+    "name": "Little Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/little-pond"
+  },
+  {
+    "id": "little-sandy-pond",
+    "name": "Little Sandy Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/little-sandy-pond"
+  },
+  {
+    "id": "little-south-pond",
+    "name": "Little South Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/little-south-pond"
+  },
+  {
+    "id": "littleville-reservoir",
+    "name": "Littleville Reservoir",
+    "town": "Chester",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/littleville-reservoir"
+  },
+  {
+    "id": "long-pond-marston-mills",
+    "name": "Long Pond",
+    "town": "Barnstable",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/long-pond-marston-mills"
+  },
+  {
+    "id": "long-pond-brewster",
+    "name": "Long Pond",
+    "town": "Brewster",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/long-pond-brewster"
+  },
+  {
+    "id": "long-pond-lakevillefreetown",
+    "name": "Long Pond",
+    "town": "Lakeville",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/long-pond-lakevillefreetown"
+  },
+  {
+    "id": "long-pond-littleton",
+    "name": "Long Pond",
+    "town": "Littleton",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/long-pond-littleton"
+  },
+  {
+    "id": "long-pond-plymouth",
+    "name": "Long Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/long-pond-plymouth"
+  },
+  {
+    "id": "long-pond-rutland",
+    "name": "Long Pond",
+    "town": "Rutland",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/long-pond-rutland"
+  },
+  {
+    "id": "long-pond-sturbridge",
+    "name": "Long Pond",
+    "town": "Sturbridge",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/long-pond-sturbridge"
+  },
+  {
+    "id": "long-pond-wellfleet",
+    "name": "Long Pond",
+    "town": "Wellfleet",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/long-pond-wellfleet"
+  },
+  {
+    "id": "long-pond-yarmouth",
+    "name": "Long Pond",
+    "town": "Yarmouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/long-pond-yarmouth"
+  },
+  {
+    "id": "long-sought-for-pond",
+    "name": "Long Sought-For Pond",
+    "town": "Westford",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/long-sought-for-pond"
+  },
+  {
+    "id": "loon-pond-lakeville",
+    "name": "Loon Pond",
+    "town": "Lakeville",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/loon-pond-lakeville"
+  },
+  {
+    "id": "loon-pond-springfield",
+    "name": "Loon Pond",
+    "town": "Springfield",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/loon-pond-springfield"
+  },
+  {
+    "id": "lout-pond",
+    "name": "Lout Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lout-pond"
+  },
+  {
+    "id": "lovells-pond",
+    "name": "Lovells Pond",
+    "town": "Barnstable",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lovells-pond"
+  },
+  {
+    "id": "lower-highland-lake",
+    "name": "Lower Highland Lake",
+    "town": "Goshen",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/lower-highland-lake"
+  },
+  {
+    "id": "lower-mill-pond",
+    "name": "Lower Millpond",
+    "town": "Easthampton",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/lower-mill-pond"
+  },
+  {
+    "id": "lower-mystic-lake",
+    "name": "Lower Mystic Lake",
+    "town": "Arlington/Medford",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/lower-mystic-lake"
+  },
+  {
+    "id": "lower-spectacle-pond",
+    "name": "Lower Spectacle Pond",
+    "town": "Sandisfield",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/lower-spectacle-pond"
+  },
+  {
+    "id": "manchaug-pond",
+    "name": "Manchaug Pond",
+    "town": "Sutton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/manchaug-pond"
+  },
+  {
+    "id": "mansfield-pond",
+    "name": "Mansfield Pond",
+    "town": "Great Barrington",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/mansfield-pond"
+  },
+  {
+    "id": "maple-spring-peter-carr-pond",
+    "name": "Maple Spring Pond",
+    "town": "Holden",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/maple-spring-peter-carr-pond"
+  },
+  {
+    "id": "maquan-pond",
+    "name": "Maquan Pond",
+    "town": "Hanson",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/maquan-pond"
+  },
+  {
+    "id": "mares-pond",
+    "name": "Mares Pond",
+    "town": "Falmouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/mares-pond"
+  },
+  {
+    "id": "marys-pond",
+    "name": "Marys Pond",
+    "town": "Rochester",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/marys-pond"
+  },
+  {
+    "id": "mascuppic-lake",
+    "name": "Mascuppic Lake",
+    "town": "Tyngsborough",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/mascuppic-lake"
+  },
+  {
+    "id": "mashpee-wakeby-ponds",
+    "name": "Mashpee-Wakeby Pond",
+    "town": "Sandwich",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/mashpee-wakeby-ponds"
+  },
+  {
+    "id": "massapoag-pond-dunstable",
+    "name": "Massapoag Pond",
+    "town": "Tyngsborough",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/massapoag-pond-dunstable"
+  },
+  {
+    "id": "mauserts-pond",
+    "name": "Mauserts Pond",
+    "town": "Clarksburg",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/mauserts-pond"
+  },
+  {
+    "id": "mckinstry-pond",
+    "name": "Mckinstry Pond",
+    "town": "Oxford",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/mckinstry-pond"
+  },
+  {
+    "id": "mcleod-pond",
+    "name": "Mcleod Pond",
+    "town": "Colrain",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/mcleod-pond"
+  },
+  {
+    "id": "merino-pond",
+    "name": "Merino Pond",
+    "town": "Dudley",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/merino-pond"
+  },
+  {
+    "id": "metacomet-lake",
+    "name": "Metacomet Lake",
+    "town": "Belchertown",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/metacomet-lake"
+  },
+  {
+    "id": "micajah-pond",
+    "name": "Micajah Pond",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/micajah-pond"
+  },
+  {
+    "id": "middle-pond",
+    "name": "Middle Pond",
+    "town": "Barnstable",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/middle-pond"
+  },
+  {
+    "id": "mill-pond-harwich",
+    "name": "Mill Pond",
+    "town": "Harwich",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/mill-pond-harwich"
+  },
+  {
+    "id": "mirror-lake",
+    "name": "Mirror-Little Mirror Lake",
+    "town": "Harvard",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/mirror-lake"
+  },
+  {
+    "id": "moores-pond",
+    "name": "Moores Pond",
+    "town": "Warwick",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/moores-pond"
+  },
+  {
+    "id": "moosehorn-pond",
+    "name": "Moosehorn Pond",
+    "town": "Hubbardston",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/moosehorn-pond"
+  },
+  {
+    "id": "moulton-pond",
+    "name": "Moulton Pond",
+    "town": "Rutland",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/moulton-pond"
+  },
+  {
+    "id": "mystic-lake-barnstable",
+    "name": "Mystic Lake",
+    "town": "Barnstable",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/mystic-lake-barnstable"
+  },
+  {
+    "id": "nabnasset-pond",
+    "name": "Nabnasset Pond",
+    "town": "Westford",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/nabnasset-pond"
+  },
+  {
+    "id": "nashawannuck-pond",
+    "name": "Nashawannuck Pond",
+    "town": "Easthampton",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/nashawannuck-pond"
+  },
+  {
+    "id": "newfield-pond",
+    "name": "Newfield Pond",
+    "town": "Chelmsford",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/newfield-pond"
+  },
+  {
+    "id": "newton-pond",
+    "name": "Newton Pond",
+    "town": "Shrewbury/Boylston",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/newton-pond"
+  },
+  {
+    "id": "newtown-reservoir",
+    "name": "Newtown Reservoir",
+    "town": "Athol",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/newtown-reservoir"
+  },
+  {
+    "id": "ninemile-pond",
+    "name": "Ninemile Pond",
+    "town": "Wilbraham",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/ninemile-pond"
+  },
+  {
+    "id": "nipmuck-pond",
+    "name": "Nipmuck Pond",
+    "town": "Mendon",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/nipmuck-pond"
+  },
+  {
+    "id": "north-pond-florida",
+    "name": "North Pond",
+    "town": "Florida",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/north-pond-florida"
+  },
+  {
+    "id": "north-maspenock-pond",
+    "name": "North Pond",
+    "town": "Hopkington",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/north-maspenock-pond"
+  },
+  {
+    "id": "norton-reservoir",
+    "name": "Norton Reservoir",
+    "town": "Norton",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/norton-reservoir"
+  },
+  {
+    "id": "norwhich-pond",
+    "name": "Norwich Pond",
+    "town": "Huntington",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/norwhich-pond"
+  },
+  {
+    "id": "nutting-lake",
+    "name": "Nutting Lake",
+    "town": "Billerica",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/nutting-lake"
+  },
+  {
+    "id": "oldham-pond",
+    "name": "Oldham Pond",
+    "town": "Pembroke",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/oldham-pond"
+  },
+  {
+    "id": "onota-lake",
+    "name": "Onota Lake",
+    "town": "Pittsfield",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/onota-lake"
+  },
+  {
+    "id": "otis-reservoir",
+    "name": "Otis Reservoir",
+    "town": "Otis",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/otis-reservoir"
+  },
+  {
+    "id": "oxbow",
+    "name": "Oxbow",
+    "town": "Easthampton",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/oxbow"
+  },
+  {
+    "id": "paradise-pond",
+    "name": "Paradise Pond",
+    "town": "Leominster",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/paradise-pond"
+  },
+  {
+    "id": "patch-reservoir",
+    "name": "Patch Reservoir",
+    "town": "Worcester",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/patch-reservoir"
+  },
+  {
+    "id": "pelham-lake",
+    "name": "Pelham Lake",
+    "town": "Rowe",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/pelham-lake"
+  },
+  {
+    "id": "pentucket-pond",
+    "name": "Pentucket Pond",
+    "town": "Georgetown",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/pentucket-pond"
+  },
+  {
+    "id": "pequot-pond-hampton-ponds",
+    "name": "Pequot (Hampton) Pond",
+    "town": "Westfield",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/pequot-pond-hampton-ponds"
+  },
+  {
+    "id": "peters-pond",
+    "name": "Peters Pond",
+    "town": "Sandwich",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/peters-pond"
+  },
+  {
+    "id": "pilgrim-lake",
+    "name": "Pilgrim Lake",
+    "town": "Orleans",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/pilgrim-lake"
+  },
+  {
+    "id": "pillings-pond",
+    "name": "Pillings Pond",
+    "town": "Lynnfield",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/pillings-pond"
+  },
+  {
+    "id": "pimlico-pond",
+    "name": "Pimlico Pond",
+    "town": "Sandwich",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/pimlico-pond"
+  },
+  {
+    "id": "plainfield-pond",
+    "name": "Plainfield Pond",
+    "town": "Plainfield",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/plainfield-pond"
+  },
+  {
+    "id": "pleasant-pond",
+    "name": "Pleasant Pond",
+    "town": "Wenham",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/pleasant-pond"
+  },
+  {
+    "id": "plunkett-reservoir",
+    "name": "Plunkett Reservoir",
+    "town": "Hinsdale",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/plunkett-reservoir"
+  },
+  {
+    "id": "pomps-pond",
+    "name": "Pomps Pond",
+    "town": "Andover",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/pomps-pond"
+  },
+  {
+    "id": "ponkapoag-pond",
+    "name": "Ponkapoag Pond",
+    "town": "Randolph",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/ponkapoag-pond"
+  },
+  {
+    "id": "pontoosuc-lake",
+    "name": "Pontoosuc Lake",
+    "town": "Lanesborough",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/pontoosuc-lake"
+  },
+  {
+    "id": "pout-pond",
+    "name": "Pout Pond",
+    "town": "Uxbridge",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/pout-pond"
+  },
+  {
+    "id": "pratt-pond",
+    "name": "Pratt Pond",
+    "town": "Upton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/pratt-pond"
+  },
+  {
+    "id": "prindle-lake",
+    "name": "Prindle Lake",
+    "town": "Charlton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/prindle-lake"
+  },
+  {
+    "id": "prospect-hill-pond",
+    "name": "Prospect Hill Pond",
+    "town": "Taunton",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/prospect-hill-pond"
+  },
+  {
+    "id": "puffers-pond",
+    "name": "Puffers (Factory Hollow) Pond",
+    "town": "Amherst",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/puffers-pond"
+  },
+  {
+    "id": "putnamville-reservoir",
+    "name": "Putnamville Reservoir",
+    "town": "Danvers",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/putnamville-reservoir"
+  },
+  {
+    "id": "quabbin-reservoir",
+    "name": "Quabbin Reservoir",
+    "town": "multiple",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/quabbin-reservoir"
+  },
+  {
+    "id": "quaboag-pond",
+    "name": "Quaboag Pond",
+    "town": "Brookfield",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/quaboag-pond"
+  },
+  {
+    "id": "lake-quacumquasit-south-pond",
+    "name": "Quacumquasit (South) Pond",
+    "town": "East Brookfield/Sturbridge",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/lake-quacumquasit-south-pond"
+  },
+  {
+    "id": "queen-sewell-pond",
+    "name": "Queen Sewell Pond",
+    "town": "Bourne",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/queen-sewell-pond"
+  },
+  {
+    "id": "red-bridge-pond",
+    "name": "Red Bridge Impoundment (Chicopee River)",
+    "town": "Ludlow/Wilbraham",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/red-bridge-pond"
+  },
+  {
+    "id": "canton-reservoir",
+    "name": "Reservoir Pond",
+    "town": "Canton",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/canton-reservoir"
+  },
+  {
+    "id": "riceville-pond-athol",
+    "name": "Riceville Pond",
+    "town": "Petersham",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/riceville-pond-athol"
+  },
+  {
+    "id": "richards-reservoir",
+    "name": "Richards Reservoir",
+    "town": "Warwick",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/richards-reservoir"
+  },
+  {
+    "id": "richmond-pond",
+    "name": "Richmond Pond",
+    "town": "Richmond",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/richmond-pond"
+  },
+  {
+    "id": "rico-lake",
+    "name": "Rico Lake",
+    "town": "Tauton",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/rico-lake"
+  },
+  {
+    "id": "robbins-pond",
+    "name": "Robbins Pond",
+    "town": "East Bridgewater",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/robbins-pond"
+  },
+  {
+    "id": "robbins-pond-harvard",
+    "name": "Robbins Pond",
+    "town": "Harvard",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/robbins-pond-harvard"
+  },
+  {
+    "id": "rock-pond",
+    "name": "Rock Pond",
+    "town": "Georgetown",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/rock-pond"
+  },
+  {
+    "id": "rocky-pond",
+    "name": "Rocky Pond",
+    "town": "Boylston",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/rocky-pond"
+  },
+  {
+    "id": "round-meadow-pond",
+    "name": "Round Meadow Pond",
+    "town": "Westminster",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/round-meadow-pond"
+  },
+  {
+    "id": "russell-and-sawmill-ponds-plymouth",
+    "name": "Russell And Sawmill Ponds",
+    "town": "Plymouth",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/russell-and-sawmill-ponds-plymouth"
+  },
+  {
+    "id": "russell-pond-russell",
+    "name": "Russell Pond",
+    "town": "Russell",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/russell-pond-russell"
+  },
+  {
+    "id": "sampson-pond",
+    "name": "Sampson Pond",
+    "town": "Carver",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/sampson-pond"
+  },
+  {
+    "id": "santuit-pond",
+    "name": "Santuit Pond",
+    "town": "Mashpee",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/santuit-pond"
+  },
+  {
+    "id": "scargo-lake",
+    "name": "Scargo Lake",
+    "town": "Dennis",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/scargo-lake"
+  },
+  {
+    "id": "schoolhouse-pond-chatham",
+    "name": "Schoolhouse Pond",
+    "town": "Chatham",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/schoolhouse-pond-chatham"
+  },
+  {
+    "id": "seymour-pond",
+    "name": "Seymour Pond",
+    "town": "Brewster",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/seymour-pond"
+  },
+  {
+    "id": "shaw-pond",
+    "name": "Shaw Pond",
+    "town": "Beckett",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/shaw-pond"
+  },
+  {
+    "id": "sheep-pond",
+    "name": "Sheep Pond",
+    "town": "Brewster",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/sheep-pond"
+  },
+  {
+    "id": "sheomet-lake",
+    "name": "Sheomet Lake",
+    "town": "Warwick",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/sheomet-lake"
+  },
+  {
+    "id": "sherman-pond",
+    "name": "Sherman Pond",
+    "town": "Brimfield",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/sherman-pond"
+  },
+  {
+    "id": "shubael-pond",
+    "name": "Shubael Pond",
+    "town": "Barnstable",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/shubael-pond"
+  },
+  {
+    "id": "silver-lake-athol",
+    "name": "Silver Lake",
+    "town": "Athol",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/silver-lake-athol"
+  },
+  {
+    "id": "silver-lake-grafton",
+    "name": "Silver Lake",
+    "town": "Grafton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/silver-lake-grafton"
+  },
+  {
+    "id": "silver-lake",
+    "name": "Silver Lake",
+    "town": "Wilmington",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/silver-lake"
+  },
+  {
+    "id": "singletary-pond",
+    "name": "Singletary Pond",
+    "town": "Sutton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/singletary-pond"
+  },
+  {
+    "id": "sluice-pond",
+    "name": "Sluice Pond",
+    "town": "Lynn",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/sluice-pond"
+  },
+  {
+    "id": "snake-pond",
+    "name": "Snake Pond",
+    "town": "Sandwich",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/snake-pond"
+  },
+  {
+    "id": "snipatuit-pond",
+    "name": "Snipatuit Pond",
+    "town": "Rochester",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/snipatuit-pond"
+  },
+  {
+    "id": "south-meadow-and-mossy-ponds",
+    "name": "South Meadow And Mossy Ponds",
+    "town": "Clinton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/south-meadow-and-mossy-ponds"
+  },
+  {
+    "id": "south-pond",
+    "name": "South Pond",
+    "town": "Savoy",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/south-pond"
+  },
+  {
+    "id": "south-watuppa-pond",
+    "name": "South Watuppa Pond",
+    "town": "Fall River",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/south-watuppa-pond"
+  },
+  {
+    "id": "spectacle-pond-lancaster",
+    "name": "Spectacle Pond",
+    "town": "Lancaster",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/spectacle-pond-lancaster"
+  },
+  {
+    "id": "spectacle-pond-sandwich",
+    "name": "Spectacle Pond",
+    "town": "Sandwich",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/spectacle-pond-sandwich"
+  },
+  {
+    "id": "spectacle-pond-wilbraham",
+    "name": "Spectacle Pond",
+    "town": "Wilbraham",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/spectacle-pond-wilbraham"
+  },
+  {
+    "id": "spot-pond",
+    "name": "Spot Pond",
+    "town": "Stoneham",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/spot-pond"
+  },
+  {
+    "id": "spy-pond",
+    "name": "Spy Pond",
+    "town": "Arlington",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/spy-pond"
+  },
+  {
+    "id": "stearns-pond",
+    "name": "Stearns Pond",
+    "town": "North Andover",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/stearns-pond"
+  },
+  {
+    "id": "stetson-pond",
+    "name": "Stetson Pond",
+    "town": "Pembroke",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/stetson-pond"
+  },
+  {
+    "id": "stiles-pond",
+    "name": "Stiles Pond",
+    "town": "Boxford",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/stiles-pond"
+  },
+  {
+    "id": "stockbridge-bowl",
+    "name": "Stockbridge Bowl",
+    "town": "Stockbridge",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/stockbridge-bowl"
+  },
+  {
+    "id": "sudbury-reservoir",
+    "name": "Sudbury Reservoir",
+    "town": "Southborough",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/sudbury-reservoir"
+  },
+  {
+    "id": "sugden-reservoir",
+    "name": "Sugden Reservoir",
+    "town": "Spencer",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/sugden-reservoir"
+  },
+  {
+    "id": "the-quag",
+    "name": "The Quag",
+    "town": "Sterling",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/the-quag"
+  },
+  {
+    "id": "thousand-acre-pond",
+    "name": "Thousand Acre Lake",
+    "town": "New Marlborough",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/thousand-acre-pond"
+  },
+  {
+    "id": "tispaquin-pond",
+    "name": "Tispaquin Pond",
+    "town": "Middleborough",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/tispaquin-pond"
+  },
+  {
+    "id": "tully-lake",
+    "name": "Tully Lake",
+    "town": "Royalston",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/tully-lake"
+  },
+  {
+    "id": "turner-pond-walpole",
+    "name": "Turner Pond",
+    "town": "Walpole",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/turner-pond-walpole"
+  },
+  {
+    "id": "turner-pond-new-bedford",
+    "name": "Turner Pond (New Bedford)",
+    "town": "New Bedford",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/turner-pond-new-bedford"
+  },
+  {
+    "id": "upper-artichoke-reservoir",
+    "name": "Upper Artichoke Reservior",
+    "town": "West Newbury",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/upper-artichoke-reservoir"
+  },
+  {
+    "id": "upper-highland-lake",
+    "name": "Upper Highland Lake",
+    "town": "Goshen",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/upper-highland-lake"
+  },
+  {
+    "id": "upper-mill-pond",
+    "name": "Upper Mill Pond",
+    "town": "Brewster",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/upper-mill-pond"
+  },
+  {
+    "id": "upper-mystic-lake",
+    "name": "Upper Mystic Lake",
+    "town": "Arlington/Medford/Winchester",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/upper-mystic-lake"
+  },
+  {
+    "id": "upper-spectacle-pond",
+    "name": "Upper Spectacle Pond",
+    "town": "Sandisfield",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/upper-spectacle-pond"
+  },
+  {
+    "id": "wachusett-reservoir",
+    "name": "Wachusett Reservoir",
+    "town": "West boylston",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/wachusett-reservoir"
+  },
+  {
+    "id": "walden-pond",
+    "name": "Walden Pond",
+    "town": "Concord",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/walden-pond"
+  },
+  {
+    "id": "walker-pond-sturbridge",
+    "name": "Walker Pond",
+    "town": "Sturbridge",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/walker-pond-sturbridge"
+  },
+  {
+    "id": "walkers-pond-brewster",
+    "name": "Walkers Pond",
+    "town": "Brewster",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/walkers-pond-brewster"
+  },
+  {
+    "id": "wallum-lake",
+    "name": "Wallum Lake",
+    "town": "Douglas",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/wallum-lake"
+  },
+  {
+    "id": "wampatuck-pond",
+    "name": "Wampatuck Pond",
+    "town": "Hanson",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/wampatuck-pond"
+  },
+  {
+    "id": "watershops-pond",
+    "name": "Watershops Pond",
+    "town": "Springfield",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/watershops-pond"
+  },
+  {
+    "id": "watson-pond",
+    "name": "Watson Pond",
+    "town": "Tauton",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/watson-pond"
+  },
+  {
+    "id": "webster-lake",
+    "name": "Webster Lake",
+    "town": "Webster",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/webster-lake"
+  },
+  {
+    "id": "wedge-pond",
+    "name": "Wedge Pond",
+    "town": "Winchester",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/wedge-pond"
+  },
+  {
+    "id": "wequaquet-lake",
+    "name": "Wequaquet Lake",
+    "town": "Barnstable",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/wequaquet-lake"
+  },
+  {
+    "id": "west-lake",
+    "name": "West Lake",
+    "town": "Sandisfield",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/west-lake"
+  },
+  {
+    "id": "west-monponsett-pond",
+    "name": "West Monponsett Pond",
+    "town": "Halifax",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/west-monponsett-pond"
+  },
+  {
+    "id": "west-waushacum-pond",
+    "name": "West Waushacum Pond",
+    "town": "Sterling",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/west-waushacum-pond"
+  },
+  {
+    "id": "westfield-montgomery-reservoir",
+    "name": "Westfield (Montgomery) Reservoir",
+    "town": "Montgomery",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/westfield-montgomery-reservoir"
+  },
+  {
+    "id": "whalom-lake",
+    "name": "Whalom Lake",
+    "town": "Lunenburg",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/whalom-lake"
+  },
+  {
+    "id": "white-island-pond",
+    "name": "White Island Pond",
+    "town": "Plymouth",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/white-island-pond"
+  },
+  {
+    "id": "white-pond-concord",
+    "name": "White Pond",
+    "town": "Concord",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/white-pond-concord"
+  },
+  {
+    "id": "whitehall-pond",
+    "name": "Whitehall Pond",
+    "town": "Rutland",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/whitehall-pond"
+  },
+  {
+    "id": "whitehall-reservoir",
+    "name": "Whitehall Reservoir",
+    "town": "Hopkinton",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/whitehall-reservoir"
+  },
+  {
+    "id": "whitin-reservoir",
+    "name": "Whitin Reservoir",
+    "town": "Douglas",
+    "district": "Northeast",
+    "sourceUrl": "https://www.mass.gov/info-details/whitin-reservoir"
+  },
+  {
+    "id": "whitney-pond-winchendon",
+    "name": "Whitney Pond",
+    "town": "Winchendon",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/whitney-pond-winchendon"
+  },
+  {
+    "id": "wickaboag-pond",
+    "name": "Wickaboag Pond",
+    "town": "West Brookfield",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/wickaboag-pond"
+  },
+  {
+    "id": "williams-lake",
+    "name": "Williams Pond",
+    "town": "Wellfleet",
+    "district": "Central",
+    "sourceUrl": "https://www.mass.gov/info-details/williams-lake"
+  },
+  {
+    "id": "windsor-lake",
+    "name": "Windsor Lake",
+    "town": "North Adams",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/windsor-lake"
+  },
+  {
+    "id": "windsor-pond",
+    "name": "Windsor Pond",
+    "town": "Windsor",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/windsor-pond"
+  },
+  {
+    "id": "winnecunnet-pond",
+    "name": "Winnecunnet Pond",
+    "town": "Norton",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/winnecunnet-pond"
+  },
+  {
+    "id": "woodman-pond",
+    "name": "Woodman Pond",
+    "town": "Brimfield",
+    "district": "Southeast",
+    "sourceUrl": "https://www.mass.gov/info-details/woodman-pond"
+  },
+  {
+    "id": "yokum-pond",
+    "name": "Yokum Pond",
+    "town": "Becket",
+    "district": "Connecticut Valley",
+    "sourceUrl": "https://www.mass.gov/info-details/yokum-pond"
+  },
+  {
+    "id": "york-lake",
+    "name": "York Lake",
+    "town": "New Marlborough",
+    "district": "Western",
+    "sourceUrl": "https://www.mass.gov/info-details/york-lake"
+  }
+]

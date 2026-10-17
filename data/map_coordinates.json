@@ -1,0 +1,2990 @@
+[
+  {
+    "id": "a1-site-stump-pond",
+    "name": "A1 Site",
+    "town": "Westborough",
+    "latitude": 42.265756,
+    "longitude": -71.633851,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B015'56.7%22N+71%C2%B038'01.9%22W/@42.265756,-71.633851,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.265756!4d-71.633851?entry=ttu"
+  },
+  {
+    "id": "agawam-mill-pond",
+    "name": "Agawam Mill Pond",
+    "town": "Wareham",
+    "latitude": 41.763124,
+    "longitude": -70.676739,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Agawam+Mill+Pond+Boat+Launch/@41.763183,-70.6777945,249m/data=!3m1!1e3!4m6!3m5!1s0x89e4c68f23b512c7:0x74df7e37cbf40c34!8m2!3d41.7631244!4d-70.6767394!16s%2Fg%2F11b6_zvcqv?coh=219816&entry=tts&g_ep=EgoyMDI0MDgwNS4wKgBIAVAD"
+  },
+  {
+    "id": "aldrich-lake",
+    "name": "Aldrich Lake",
+    "town": "Granby",
+    "latitude": 42.284009,
+    "longitude": -72.532386,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.284009,+-72.532386?entry=tts"
+  },
+  {
+    "id": "althea-lake",
+    "name": "Althea Lake",
+    "town": "Tyngsborough",
+    "latitude": 42.665609,
+    "longitude": -71.380514,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.665609,+-71.380514?entry=tts"
+  },
+  {
+    "id": "alum-big-pond",
+    "name": "Alum (Big) Pond",
+    "town": "Sturbridge",
+    "latitude": 42.134215,
+    "longitude": -72.118103,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B008'03.2%22N+72%C2%B007'05.2%22W/@42.1342187,-72.1206775,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.1342148!4d-72.1181026?entry=ttu"
+  },
+  {
+    "id": "ames-long-pond",
+    "name": "Ames Long Pond",
+    "town": "Stoughton",
+    "latitude": 42.081482,
+    "longitude": -71.117872,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Ames+pond/@42.0815782,-71.1179671,129m/data=!3m1!1e3!4m6!3m5!1s0x89e48767ac063f65:0x45df40328e9a6364!8m2!3d42.081482!4d-71.117872!16s%2Fg%2F11s76_sqxc?entry=tts&g_ep=EgoyMDI0MDYxMi4wKgBIAVAD"
+  },
+  {
+    "id": "arcadia-lake",
+    "name": "Arcadia Lake",
+    "town": "Belchertown",
+    "latitude": 42.312456,
+    "longitude": -72.425319,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B018'44.8%22N+72%C2%B025'31.2%22W/@42.3124599,-72.4278939,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.312456!4d-72.425319?entry=ttu"
+  },
+  {
+    "id": "ashfield-pond",
+    "name": "Ashfield Pond",
+    "town": "Ashfield",
+    "latitude": 42.529327,
+    "longitude": -72.801978,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.529327,+-72.801978?entry=tts"
+  },
+  {
+    "id": "ashland-reservoir",
+    "name": "Ashland Reservoir",
+    "town": "Ashland",
+    "latitude": 42.232463,
+    "longitude": -71.468545,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B013'56.9%22N+71%C2%B028'06.8%22W/@42.2324671,-71.4711196,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.2324632!4d-71.4685447?entry=ttu"
+  },
+  {
+    "id": "ashmere-lake",
+    "name": "Ashmere Lake",
+    "town": "Hinsdale",
+    "latitude": 42.435126,
+    "longitude": -73.083837,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Ashmere+Lake+Boat+Ramp/@42.4351253,-73.0911191,15z/data=!4m6!3m5!1s0x89e7362050e4352b:0x71a1854e64a67893!8m2!3d42.4351256!4d-73.083837!16s%2Fg%2F11btxklh6x?entry=tts&g_ep=EgoyMDI0MDUxNC4wKgBIAVAD"
+  },
+  {
+    "id": "ashumet-pond",
+    "name": "Ashumet Pond",
+    "town": "Mashpee",
+    "latitude": 41.634313,
+    "longitude": -70.540778,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Ashumet+Pond+Boat+Ramp/@41.6343712,-70.5406737,121m/data=!3m1!1e3!4m6!3m5!1s0x89e4d1ed060459bf:0xeab0744e8edd19bb!8m2!3d41.634313!4d-70.540778!16s%2Fg%2F11b6_gsrzt?coh=219816&entry=tts&g_ep=EgoyMDI0MDgwNy4wKgBIAVAD"
+  },
+  {
+    "id": "asnacomet-comet-pond",
+    "name": "Asnacomet (Comet) Pond",
+    "town": "Hubbardston",
+    "latitude": 42.448512,
+    "longitude": -71.979265,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B026'54.6%22N+71%C2%B058'45.4%22W/@42.448516,-71.9818403,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.4485121!4d-71.9792654?entry=ttu"
+  },
+  {
+    "id": "baddacook-pond",
+    "name": "Baddacook Pond",
+    "town": "Groton",
+    "latitude": 42.623505,
+    "longitude": -71.530424,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Baddacook+Pond+Boat+Ramp/@42.623389,-71.5326431,469m/data=!3m1!1e3!4m6!3m5!1s0x89e3bf49bdd7fb43:0x2abf342d761c91a!8m2!3d42.6235047!4d-71.5304245!16s%2Fg%2F11jy3cwqqm?entry=tts&g_ep=EgoyMDI0MDcyNC4wKgBIAVAD"
+  },
+  {
+    "id": "badluck-pond",
+    "name": "Badluck (Crystal) Pond",
+    "town": "Douglas",
+    "latitude": 42.055707,
+    "longitude": -71.783445,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Douglas+State+Forest+Midstate+Trail/@42.0557077,-71.791387,2682m/data=!3m1!1e3!4m6!3m5!1s0x89e419399d6c82e1:0x5cefffa34887fe0f!8m2!3d42.0557074!4d-71.7834446!16s%2Fg%2F11lqc7wfz3?entry=tts&g_ep=EgoyMDI0MDkxNS4wKgBIAVAD"
+  },
+  {
+    "id": "baker-pond",
+    "name": "Baker Pond",
+    "town": "Orleans",
+    "latitude": 41.766461,
+    "longitude": -70.000534,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.766461,+-70.000534?entry=tts"
+  },
+  {
+    "id": "baldpate-pond",
+    "name": "Baldpate Pond",
+    "town": "Boxford",
+    "latitude": 42.697981,
+    "longitude": -71.007637,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.697981,+-71.007637?entry=tts"
+  },
+  {
+    "id": "barehill-pond",
+    "name": "Bare Hill Pond",
+    "town": "Harvard",
+    "latitude": 42.494183,
+    "longitude": -71.589311,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B029'39.1%22N+71%C2%B035'21.5%22W/@42.4941872,-71.591886,17z/data=!4m4!3m3!8m2!3d42.494183!4d-71.589311?entry=ttu"
+  },
+  {
+    "id": "barrett-pond-carver",
+    "name": "Barrett Pond",
+    "town": "Carver",
+    "latitude": 41.844283,
+    "longitude": -70.693161,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.844283,+-70.693161?entry=tts"
+  },
+  {
+    "id": "barrett-pond-leominster",
+    "name": "Barrett Pond",
+    "town": "Leominster",
+    "latitude": 42.520542,
+    "longitude": -71.772305,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.520542,+-71.772305?entry=tts&g_ep=EgoyMDI0MDcxMC4wKgBIAVAD"
+  },
+  {
+    "id": "bartlett-pond",
+    "name": "Bartlett Pond",
+    "town": "Northborough",
+    "latitude": 42.317526,
+    "longitude": -71.613323,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Watson+Park/@42.3177859,-71.6151212,478m/data=!3m1!1e3!4m6!3m5!1s0x89e3f50eaf319809:0x4175b77271eb0567!8m2!3d42.3175257!4d-71.6133232!16s%2Fg%2F11c74ct4w5?entry=tts&g_ep=EgoyMDI0MDcyNC4wKgBIAVAD"
+  },
+  {
+    "id": "bassett-pond",
+    "name": "Bassett Pond",
+    "town": "New Salem",
+    "latitude": 42.52001,
+    "longitude": -72.280297,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.520010,+-72.280297?entry=tts&g_ep=EgoyMDI1MDMxNy4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "beaver-pond",
+    "name": "Beaver Pond",
+    "town": "Royalston",
+    "latitude": 42.636682,
+    "longitude": -72.125967,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.636682,+-72.125967?entry=tts&g_ep=EgoyMDI1MDUxNS4wIPu8ASoASAFQAw%3D%3D&skid=b41ffdf1-8f93-46a1-8b83-32c224d48817"
+  },
+  {
+    "id": "beck-pond",
+    "name": "Beck Pond",
+    "town": "Hamilton",
+    "latitude": 42.600841,
+    "longitude": -70.822056,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Chebacco+Woods/@42.6007768,-70.8227625,150m/data=!3m1!1e3!4m6!3m5!1s0x89e317f100385a49:0xbc38160792fef5b8!8m2!3d42.6008408!4d-70.822056!16s%2Fg%2F11fhl208m3?entry=tts"
+  },
+  {
+    "id": "bell-pond",
+    "name": "Bell Pond",
+    "town": "Worcester",
+    "latitude": 42.272239,
+    "longitude": -71.785666,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Bell+Hill+Park/@42.2721983,-71.7853184,18z/data=!4m6!3m5!1s0x89e4063879e5ea5b:0x96195644d10522b5!8m2!3d42.2722385!4d-71.7856659!16s%2Fg%2F11f5d4q2v9?entry=tts&g_ep=EgoyMDI0MDYwMy4wKgBIAVAD"
+  },
+  {
+    "id": "benedict-pond",
+    "name": "Benedict Pond",
+    "town": "Great Barrington/Monterey",
+    "latitude": 42.202652,
+    "longitude": -73.288752,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Benedict+Pond+Loop/@42.2031727,-73.2885867,311m/data=!3m1!1e3!4m6!3m5!1s0x89e7675f8e5435fd:0x3c5c5e5a345321fe!8m2!3d42.2026521!4d-73.2887519!16s%2Fg%2F11h6r4l9gq?entry=tts"
+  },
+  {
+    "id": "benton-little-pond",
+    "name": "Benton (Little) Pond",
+    "town": "Otis",
+    "latitude": 42.182992,
+    "longitude": -73.050286,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B010'58.8%22N+73%C2%B003'01.0%22W/@42.1829959,-73.0528609,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.182992!4d-73.050286?entry=ttu"
+  },
+  {
+    "id": "berry-pond",
+    "name": "Berry Pond",
+    "town": "Hancock",
+    "latitude": 42.50619,
+    "longitude": -73.32018,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.506190,+-73.320180?entry=tts"
+  },
+  {
+    "id": "big-bearhole-pond",
+    "name": "Big Bearhole Pond",
+    "town": "Tauton",
+    "latitude": 41.865366,
+    "longitude": -70.987024,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.865366,+-70.987024?entry=tts&g_ep=EgoyMDI1MDMxMC4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "big-benton-pond",
+    "name": "Big Benton Pond",
+    "town": "Otis",
+    "latitude": 42.179487,
+    "longitude": -73.039009,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B010'46.2%22N+73%C2%B002'20.4%22W/@42.1794904,-73.0415839,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.1794865!4d-73.039009?entry=ttu"
+  },
+  {
+    "id": "big-sandy-pond",
+    "name": "Big Sandy Pond",
+    "town": "Plymouth",
+    "latitude": 41.809539,
+    "longitude": -70.600186,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B048'34.3%22N+70%C2%B036'00.7%22W/@41.8095389,-70.602761,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.8095389!4d-70.6001861?entry=ttu"
+  },
+  {
+    "id": "bloody-pond",
+    "name": "Bloody Pond",
+    "town": "Plymouth",
+    "latitude": 41.841582,
+    "longitude": -70.582149,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B050'29.7%22N+70%C2%B034'55.7%22W/@41.841644,-70.5834848,372m/data=!3m1!1e3!4m4!3m3!8m2!3d41.841582!4d-70.582149?entry=tts"
+  },
+  {
+    "id": "blueberry-pond",
+    "name": "Blueberry Pond",
+    "town": "Brewster",
+    "latitude": 41.763662,
+    "longitude": -70.051661,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.763662,+-70.051661?entry=tts"
+  },
+  {
+    "id": "brierly-pond",
+    "name": "Brierly Pond",
+    "town": "Millbury",
+    "latitude": 42.175524,
+    "longitude": -71.775545,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Brierly+Pond+Kayak+Launch/@42.1759653,-71.7754835,277m/data=!3m1!1e3!4m6!3m5!1s0x89e40526720621c1:0x81cb0a2220bd34e0!8m2!3d42.175524!4d-71.7755452!16s%2Fg%2F11k8jhfkq6?entry=tts&g_ep=EgoyMDI1MDMxMS4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "brigham-pond",
+    "name": "Brigham Pond",
+    "town": "Hubbardston",
+    "latitude": 42.468182,
+    "longitude": -71.99886,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.468182,+-71.998860?entry=tts"
+  },
+  {
+    "id": "brookline-reservoir",
+    "name": "Brookline Reservoir",
+    "town": "Brookline",
+    "latitude": 42.325338,
+    "longitude": -71.137486,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.325338,+-71.137486?entry=tts"
+  },
+  {
+    "id": "browning-pond",
+    "name": "Browning Pond",
+    "town": "Oakham",
+    "latitude": 42.308111,
+    "longitude": -71.998556,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B018'29.2%22N+71%C2%B059'54.8%22W/@42.3081149,-72.0011309,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.308111!4d-71.998556?entry=ttu"
+  },
+  {
+    "id": "buck-pond",
+    "name": "Buck Pond",
+    "town": "Westfield",
+    "latitude": 42.173818,
+    "longitude": -72.703757,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.173818,+-72.703757?entry=tts"
+  },
+  {
+    "id": "buckley-dunton-reservoir",
+    "name": "Buckley Dunton Lake",
+    "town": "Becket",
+    "latitude": 42.31213,
+    "longitude": -73.132096,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B018'43.7%22N+73%C2%B007'55.6%22W/@42.3121339,-73.1346709,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.31213!4d-73.132096?entry=ttu"
+  },
+  {
+    "id": "buffumville-reservoir",
+    "name": "Buffumville Reservoir",
+    "town": "Charlton",
+    "latitude": 42.120278,
+    "longitude": -71.909444,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B007'13.0%22N+71%C2%B054'34.0%22W/@42.1202818,-71.9120193,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.1202778!4d-71.9094444?entry=ttu"
+  },
+  {
+    "id": "carbuncle-pond",
+    "name": "Carbuncle Pond",
+    "town": "Oxford",
+    "latitude": 42.136696,
+    "longitude": -71.872584,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Carbuncle+Beach/@42.136215,-71.8716721,17z/data=!4m15!1m8!3m7!1s0x89e41c65a69e30d5:0xc0474b624eb39c5a!2s495+Main+St,+Oxford,+MA+01540!3b1!8m2!3d42.1366964!4d-71.872584!16s%2Fg%2F11c1xx0d43!3m5!1s0x89e41c6523a8703f:0xca64ff222e6b3c63!8m2!3d42.1364715!4d-71.8700209!16s%2Fg%2F1trrf6n3?entry=ttu"
+  },
+  {
+    "id": "cedar-pond-sturbridge",
+    "name": "Cedar Pond",
+    "town": "Sturbridge",
+    "latitude": 42.113473,
+    "longitude": -72.092523,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.113473,+-72.092523?entry=tts&g_ep=EgoyMDI1MDUwNS4wIPu8ASoASAFQAw%3D%3D&skid=011b4d2c-bb9e-4f18-b751-dbde000ecc77"
+  },
+  {
+    "id": "center-pond",
+    "name": "Center Pond",
+    "town": "Beckett",
+    "latitude": 42.295444,
+    "longitude": -73.061956,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.295444,+-73.061956?entry=tts"
+  },
+  {
+    "id": "chapin-haviland-pond",
+    "name": "Chapin (Haviland) Pond",
+    "town": "Ludlow",
+    "latitude": 42.17195,
+    "longitude": -72.477467,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B010'19.0%22N+72%C2%B028'38.9%22W/@42.1719539,-72.4800416,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.17195!4d-72.4774667?entry=ttu"
+  },
+  {
+    "id": "charge-pond",
+    "name": "Charge Pond",
+    "town": "Plymouth",
+    "latitude": 41.818408,
+    "longitude": -70.675185,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.818408,+-70.675185?entry=tts"
+  },
+  {
+    "id": "chebacco-lake",
+    "name": "Chebacco Lake",
+    "town": "Essex",
+    "latitude": 42.604204,
+    "longitude": -70.810707,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Chebacco+Lake+launch/@42.6043199,-70.8133921,17z/data=!4m6!3m5!1s0x89e33d133a51c863:0x86894b770adf584f!8m2!3d42.6042041!4d-70.8107066!16s%2Fg%2F11nms7nkc5?coh=219816&entry=tts&g_ep=EgoyMDI0MDgwNS4wKgBIAVAD"
+  },
+  {
+    "id": "cheshire-reservoir",
+    "name": "Cheshire Reservoir",
+    "town": "Cheshire",
+    "latitude": 42.555757,
+    "longitude": -73.166455,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Cheshire+Lake+Boat+Ramp/@42.5555191,-73.1661169,153m/data=!3m1!1e3!4m6!3m5!1s0x89e0b514e252254d:0xede01deaf3ae8970!8m2!3d42.555757!4d-73.1664546!16s%2Fg%2F11g4fszncl?entry=tts"
+  },
+  {
+    "id": "chicopee-reservoir",
+    "name": "Chicopee Reservoir",
+    "town": "Chicopee",
+    "latitude": 42.170876,
+    "longitude": -72.546743,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.170876,+-72.546743?entry=tts"
+  },
+  {
+    "id": "clamshell-pond",
+    "name": "Clamshell Pond",
+    "town": "Clinton",
+    "latitude": 42.402217,
+    "longitude": -71.678257,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.402217,+-71.678257?entry=tts&g_ep=EgoyMDI1MDQyMC4wIPu8ASoASAFQAw%3D%3D&skid=c22bc53a-e40a-4701-9fd0-b2f8e460646a"
+  },
+  {
+    "id": "clapps-pond",
+    "name": "Clapps Pond",
+    "town": "Provincetown",
+    "latitude": 42.049865,
+    "longitude": -70.209743,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Clapps+Pond+Wildlife+Management+Area+Parking/@42.0501935,-70.2118247,16.5z/data=!4m6!3m5!1s0x89fb587667cdff8d:0xb3ed76c6c4610eb8!8m2!3d42.049865!4d-70.2097428!16s%2Fg%2F11ts_13lqw?entry=tts"
+  },
+  {
+    "id": "cleveland-pond",
+    "name": "Cleveland Pond",
+    "town": "Abington",
+    "latitude": 42.115012,
+    "longitude": -70.97604,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.115012,+-70.976040?entry=tts&g_ep=EgoyMDI0MDYxMi4wKgBIAVAD"
+  },
+  {
+    "id": "cliff-pond",
+    "name": "Cliff Pond",
+    "town": "Brewster",
+    "latitude": 41.755798,
+    "longitude": -70.030987,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.755798,+-70.030987?coh=219680&entry=tts&g_ep=EgoyMDI0MDkxNi4wKgBIAVAD"
+  },
+  {
+    "id": "coachlace-pond",
+    "name": "Coachlace Pond",
+    "town": "Clinton",
+    "latitude": 42.41501,
+    "longitude": -71.692317,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Duck+Harbor,+28+Coachlace+St,+Clinton,+MA+01510/@42.4145548,-71.6919368,16.5z/data=!4m6!3m5!1s0x89e3f10cbe9660cd:0x7e04dbb3c8e991e9!8m2!3d42.4150096!4d-71.6923174!16s%2Fg%2F11b8tbkwyp!5m1!1e1?entry=tts"
+  },
+  {
+    "id": "coes-reservoir",
+    "name": "Coes Reservoir",
+    "town": "Worcester",
+    "latitude": 42.251551,
+    "longitude": -71.842395,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.251551,+-71.842395?entry=tts&g_ep=EgoyMDI1MDMxMi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "college-pond",
+    "name": "College Pond",
+    "town": "Plymouth",
+    "latitude": 41.870964,
+    "longitude": -70.664073,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/College+Pond+Day-Use+Area/@41.8688866,-70.6647396,16.75z/data=!4m6!3m5!1s0x89e4b9a9c0e501cf:0xa9e6619357622e71!8m2!3d41.8709635!4d-70.6640726!16s%2Fg%2F11s7zzx0l6?entry=tts"
+  },
+  {
+    "id": "cook-pond",
+    "name": "Cook Pond",
+    "town": "Fall River",
+    "latitude": 41.675041,
+    "longitude": -71.17184,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B040'30.2%22N+71%C2%B010'18.6%22W/@41.6750453,-71.1744145,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.6750413!4d-71.1718396?entry=ttu"
+  },
+  {
+    "id": "coonamessett-pond",
+    "name": "Coonamessett Pond",
+    "town": "Falmouth",
+    "latitude": 41.619022,
+    "longitude": -70.572069,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B037'08.5%22N+70%C2%B034'19.5%22W/@41.619026,-70.5746439,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.619022!4d-70.572069?entry=ttu"
+  },
+  {
+    "id": "copicut-reservoir",
+    "name": "Copicut Reservoir",
+    "town": "Fall River",
+    "latitude": 41.715969,
+    "longitude": -71.042616,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.715969,+-71.042616?coh=219680&entry=tts&g_ep=EgoyMDI0MDkxNi4wKgBIAVAD"
+  },
+  {
+    "id": "cranberry-pond-sunderland",
+    "name": "Cranberry Pond",
+    "town": "Sunderland",
+    "latitude": 42.5033,
+    "longitude": -72.525356,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B030'11.9%22N+72%C2%B031'31.3%22W/@42.5033039,-72.5279305,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.5033!4d-72.5253556?entry=ttu"
+  },
+  {
+    "id": "crystal-lake-haverhill",
+    "name": "Crystal Lake",
+    "town": "Haverhill",
+    "latitude": 42.802537,
+    "longitude": -71.160537,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Crystal+Shores+Conservation+Area/@42.8027661,-71.160603,17.75z/data=!4m6!3m5!1s0x89e301315ec43687:0x41efa0a05bf21019!8m2!3d42.8025366!4d-71.1605367!16s%2Fg%2F11k4kb7k_4?entry=tts&g_ep=EgoyMDI0MDcyNC4wKgBIAVAD"
+  },
+  {
+    "id": "crystal-lake-orleans",
+    "name": "Crystal Lake",
+    "town": "Orleans",
+    "latitude": 41.776251,
+    "longitude": -69.98602,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.776251,+-69.986020?entry=tts"
+  },
+  {
+    "id": "curlew-pond",
+    "name": "Curlew Pond",
+    "town": "Plymouth",
+    "latitude": 41.892716,
+    "longitude": -70.695202,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B053'33.8%22N+70%C2%B041'42.7%22W/@41.89272,-70.6977769,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.892716!4d-70.695202?entry=ttu"
+  },
+  {
+    "id": "dark-brook-reservoir",
+    "name": "Dark Brook Reservoir",
+    "town": "Auburn",
+    "latitude": 42.194176,
+    "longitude": -71.869291,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.194176,+-71.869291?entry=tts&g_ep=EgoyMDI0MDYwMy4wKgBIAVAD"
+  },
+  {
+    "id": "dean-pond",
+    "name": "Dean Pond",
+    "town": "Brimfield",
+    "latitude": 42.101388,
+    "longitude": -72.268135,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.101388,+-72.268135?entry=tts&g_ep=EgoyMDI1MDMxNi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "dearth-hill-pond",
+    "name": "Dearth Hill Pond",
+    "town": "Brimfield",
+    "latitude": 42.108985,
+    "longitude": -72.248797,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Brimfield+State+Forest+parking/@42.1089261,-72.2489921,71m/data=!3m1!1e3!4m6!3m5!1s0x89e6bf487b486095:0x21ad6a72460d548d!8m2!3d42.1089852!4d-72.2487967!16s%2Fg%2F11rcjkgw_6?entry=tts&g_ep=EgoyMDI0MDUyMi4wKgBIAVAD"
+  },
+  {
+    "id": "deep-pond",
+    "name": "Deep Pond",
+    "town": "Falmouth",
+    "latitude": 41.625711,
+    "longitude": -70.580545,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.625711,+-70.580545?entry=tts"
+  },
+  {
+    "id": "delaney-pond",
+    "name": "Delaney Pond",
+    "town": "Stow",
+    "latitude": 42.451356,
+    "longitude": -71.54335,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Delaney+Wildlife+Management+Area/@42.4509904,-71.5441256,238m/data=!3m1!1e3!4m6!3m5!1s0x89e393a9d40b8f11:0x890e4f932bf198ef!8m2!3d42.4513561!4d-71.5433504!16s%2Fg%2F11lq0z0bg2?entry=tts&g_ep=EgoyMDI0MDcyNC4wKgBIAVAD"
+  },
+  {
+    "id": "demond-pond",
+    "name": "Demond Pond",
+    "town": "Rutland",
+    "latitude": 42.356722,
+    "longitude": -71.971786,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B021'24.2%22N+71%C2%B058'18.4%22W/@42.3564767,-71.9773229,15.4z/data=!4m4!3m3!8m2!3d42.3567222!4d-71.9717861?entry=ttu"
+  },
+  {
+    "id": "dennis-pond",
+    "name": "Dennis Pond",
+    "town": "Yarmouth",
+    "latitude": 41.697349,
+    "longitude": -70.248823,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.697349,+-70.248823?entry=tts"
+  },
+  {
+    "id": "dimmock-pond",
+    "name": "Dimmock Pond",
+    "town": "Springfield",
+    "latitude": 42.150551,
+    "longitude": -72.491146,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.150551,+-72.491146?entry=tts&g_ep=EgoyMDI1MDUwMy4wIPu8ASoASAFQAw%3D%3D&skid=65d9013d-1b6c-43ec-9d0a-41b2b9b6d441"
+  },
+  {
+    "id": "doane-pond",
+    "name": "Doane Pond",
+    "town": "North Brookfield",
+    "latitude": 42.285888,
+    "longitude": -72.07114,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.285888,+-72.071140?entry=tts&g_ep=EgoyMDI1MDMxMi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "duck-pond",
+    "name": "Duck Pond (Groton)",
+    "town": "Groton",
+    "latitude": 42.595818,
+    "longitude": -71.515057,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.595818,+-71.515057?entry=tts"
+  },
+  {
+    "id": "dufresne-park-pond",
+    "name": "Dufresne Park (Ingraham Brook) Pond",
+    "town": "Granby",
+    "latitude": 42.258379,
+    "longitude": -72.501838,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.258379,+-72.501838?entry=tts&g_ep=EgoyMDI1MDMxNi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "dug-pond",
+    "name": "Dug Pond",
+    "town": "Natick",
+    "latitude": 42.272865,
+    "longitude": -71.364337,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Rose+Donahue+Boat+Launch/@42.2729531,-71.3646101,113m/data=!3m1!1e3!4m6!3m5!1s0x89e387c18689435d:0xe3cce494a261d3c8!8m2!3d42.2728649!4d-71.364337!16s%2Fg%2F11bwgw4dn6?entry=tts&g_ep=EgoyMDI0MDYxNS4xKgBIAVAD"
+  },
+  {
+    "id": "dunn-pond",
+    "name": "Dunn Pond",
+    "town": "Gardner",
+    "latitude": 42.580154,
+    "longitude": -71.971216,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Dunn+State+Park/@42.5795173,-71.972804,17z/data=!4m6!3m5!1s0x89e158b44f8a9847:0xca410e755963a2e1!8m2!3d42.5801535!4d-71.9712156!16zL20vMGYyYzBm?entry=tts&g_ep=EgoyMDI0MDUyMC4wKgBIAVAD"
+  },
+  {
+    "id": "eames-pond",
+    "name": "Eames Pond",
+    "town": "Paxton",
+    "latitude": 42.313142,
+    "longitude": -71.957573,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B018'47.3%22N+71%C2%B057'27.3%22W/@42.313146,-71.9601476,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.3131421!4d-71.9575727?entry=ttu"
+  },
+  {
+    "id": "east-brimfield-reservoir",
+    "name": "East Brimfield Reservoir",
+    "town": "Sturbridge",
+    "latitude": 42.110306,
+    "longitude": -72.13932,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Quinebaug+River+Canoe+Trail/@42.1103553,-72.1400158,90m/data=!3m1!1e3!4m6!3m5!1s0x89e6a2d57295d3d9:0x29e268611f495b37!8m2!3d42.1103057!4d-72.1393204!16s%2Fg%2F1hc1f2qj3?entry=tts&g_ep=EgoyMDI0MDUyOS4wKgBIAVAD"
+  },
+  {
+    "id": "east-monponsett-pond",
+    "name": "East Monponsett Pond",
+    "town": "halifax",
+    "latitude": 42.006353,
+    "longitude": -70.841392,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B000'22.9%22N+70%C2%B050'29.0%22W/@42.0063568,-70.8439666,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.0063528!4d-70.8413917?entry=ttu"
+  },
+  {
+    "id": "east-waushacum-pond",
+    "name": "East Waushacum Pond",
+    "town": "Sterling",
+    "latitude": 42.415514,
+    "longitude": -71.742894,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B024'55.9%22N+71%C2%B044'34.4%22W/@42.4155179,-71.7454689,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.415514!4d-71.742894?entry=ttu"
+  },
+  {
+    "id": "eddy-pond",
+    "name": "Eddy Pond",
+    "town": "Auburn",
+    "latitude": 42.178956,
+    "longitude": -71.841426,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B010'44.2%22N+71%C2%B050'29.1%22W/@42.1789596,-71.8440014,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.1789557!4d-71.8414265?entry=ttu"
+  },
+  {
+    "id": "ezekiel-pond",
+    "name": "Ezekiel Pond",
+    "town": "Plymouth",
+    "latitude": 41.804444,
+    "longitude": -70.611944,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B048'16.0%22N+70%C2%B036'43.0%22W/@41.8044484,-70.6145193,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.8044444!4d-70.6119444?entry=ttu"
+  },
+  {
+    "id": "falls-pond",
+    "name": "Falls Pond",
+    "town": "North Attleborough",
+    "latitude": 41.969082,
+    "longitude": -71.327194,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Falls+Pond/@41.9690819,-71.3281955,183m/data=!3m1!1e3!4m7!3m6!1s0x89e4670585dd960d:0xccb5f48bbf289c6d!8m2!3d41.9690818!4d-71.3271942!15sChdmYWxscyBwb25kIGF0dGxlYm9yb3VnaJIBDGZpc2hpbmdfcG9uZOABAA!16s%2Fg%2F11cn6gxwq4?entry=tts&g_ep=EgoyMDI0MDYxMi4wKgBIAVAD"
+  },
+  {
+    "id": "farm-pond-framingham",
+    "name": "Farm Pond",
+    "town": "Framingham",
+    "latitude": 42.288027,
+    "longitude": -71.43027,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Farm+Pond+Boat+Launch/@42.288076,-71.4308387,142m/data=!3m1!1e3!4m6!3m5!1s0x89e389b335818c9d:0xa4b05bcead1e93a3!8m2!3d42.2880274!4d-71.4302703!16s%2Fg%2F11bxfsv9k9?entry=tts&g_ep=EgoyMDI0MDcyNC4wKgBIAVAD"
+  },
+  {
+    "id": "fearing-pond",
+    "name": "Fearing Pond",
+    "town": "Plymouth",
+    "latitude": 41.829094,
+    "longitude": -70.662717,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B049'44.7%22N+70%C2%B039'45.8%22W/@41.829098,-70.6652919,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.829094!4d-70.662717?entry=ttu"
+  },
+  {
+    "id": "field-pond",
+    "name": "Field Pond",
+    "town": "Andover",
+    "latitude": 42.610569,
+    "longitude": -71.107925,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B036'38.1%22N+71%C2%B006'28.5%22W/@42.6105733,-71.1104999,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.6105694!4d-71.107925?entry=ttu"
+  },
+  {
+    "id": "fisk-pond",
+    "name": "Fisk Pond",
+    "town": "Natick",
+    "latitude": 42.282828,
+    "longitude": -71.373286,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.282828,+-71.373286?entry=tts&g_ep=EgoyMDI1MDUwMy4wIPu8ASoASAFQAw%3D%3D&skid=cae1b83b-4241-4ec2-a62f-a802fe3de84b"
+  },
+  {
+    "id": "fitchburg-reservoir",
+    "name": "Fitchburg Reservoir",
+    "town": "Fitchburg",
+    "latitude": 42.646963,
+    "longitude": -71.850023,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.646963,+-71.850023?entry=tts"
+  },
+  {
+    "id": "fivemile-pond-springfield",
+    "name": "Fivemile Pond",
+    "town": "Springfield",
+    "latitude": 42.139666,
+    "longitude": -72.509111,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.139666,+-72.509111?entry=tts&g_ep=EgoyMDI0MDUyMS4wKgBIAVAD"
+  },
+  {
+    "id": "flax-pond-bourne",
+    "name": "Flax Pond",
+    "town": "Bourne",
+    "latitude": 41.688256,
+    "longitude": -70.597918,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.688256,+-70.597918?coh=219816&entry=tts&g_ep=EgoyMDI0MDgxOC4wKgBIAVAD"
+  },
+  {
+    "id": "flax-pond-brewster",
+    "name": "Flax Pond",
+    "town": "Brewster",
+    "latitude": 41.768857,
+    "longitude": -70.030953,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Nickerson+State+Park+-+Area+1/@41.7690474,-70.0308232,158m/data=!3m1!1e3!4m6!3m5!1s0x89fb6a6afdcb5e2d:0x1b0f3a8ed35de552!8m2!3d41.7688566!4d-70.030953!16s%2Fg%2F11bwp1sqnj?coh=219816&entry=tts&g_ep=EgoyMDI0MDgxOC4wKgBIAVAD"
+  },
+  {
+    "id": "flax-pond-lynn",
+    "name": "Flax Pond",
+    "town": "Lynn",
+    "latitude": 42.484485,
+    "longitude": -70.956342,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B029'04.2%22N+70%C2%B057'22.8%22W/@42.4844854,-70.958917,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.4844854!4d-70.9563421?entry=ttu"
+  },
+  {
+    "id": "flint-pond-shrewsbury",
+    "name": "Flint Pond",
+    "town": "Shrewsbury",
+    "latitude": 42.242805,
+    "longitude": -71.737473,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Oak+Island+Boat+Ramp/@42.2432737,-71.7374343,316m/data=!3m1!1e3!4m6!3m5!1s0x89e408c9be13d1ab:0xc529c1289b82386c!8m2!3d42.2428052!4d-71.737473!16s%2Fg%2F1txc8161?entry=tts&g_ep=EgoyMDI0MDYwNS4wKgBIAVAD"
+  },
+  {
+    "id": "flint-pond-tyngsborough",
+    "name": "Flint Pond",
+    "town": "Tyngsborough",
+    "latitude": 42.675332,
+    "longitude": -71.425358,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.675332,+-71.425358?entry=tts&g_ep=EgoyMDI0MDcyNC4wKgBIAVAD"
+  },
+  {
+    "id": "forest-lake",
+    "name": "Forest Lake",
+    "town": "Meuthen",
+    "latitude": 42.730889,
+    "longitude": -71.25087,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B043'51.2%22N+71%C2%B014'53.9%22W/@42.7308887,-71.2508698,17z/data=!3m1!"
+  },
+  {
+    "id": "forge-pond",
+    "name": "Forge Pond",
+    "town": "Granby",
+    "latitude": 42.275573,
+    "longitude": -72.470907,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Emily+%26+Joseph+Partyka+Conservation+Area/@42.2755618,-72.4709982,387m/data=!3m1!1e3!4m6!3m5!1s0x89e6c5ecd0668101:0x2f865e43e519cbf9!8m2!3d42.2755726!4d-72.4709073!16s%2Fg%2F11stjlp66_?entry=tts&g_ep=EgoyMDI0MDUxNC4wKgBIAVAD"
+  },
+  {
+    "id": "fort-pond",
+    "name": "Fort Pond",
+    "town": "Lancaster",
+    "latitude": 42.520478,
+    "longitude": -71.690695,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B031'13.7%22N+71%C2%B041'26.5%22W/@42.5204816,-71.6932703,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.5204777!4d-71.6906954?entry=ttu"
+  },
+  {
+    "id": "fresh-pond-plymouth",
+    "name": "Fresh Pond",
+    "town": "Plymouth",
+    "latitude": 41.900269,
+    "longitude": -70.554974,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Fresh+Pond+Park/@41.9005775,-70.5550902,295m/data=!3m1!1e3!4m6!3m5!1s0x89e4b12f8704215f:0x31c6c2e94b445cfc!8m2!3d41.9002688!4d-70.5549744!16s%2Fg%2F11t57ngr0y?coh=219816&entry=tts&g_ep=EgoyMDI0MDgwNS4wKgBIAVAD"
+  },
+  {
+    "id": "furnace-pond",
+    "name": "Furnace Pond",
+    "town": "Pembroke",
+    "latitude": 42.061103,
+    "longitude": -70.826897,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B003'40.0%22N+70%C2%B049'36.8%22W/@42.061107,-70.8294719,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.061103!4d-70.826897?entry=ttu"
+  },
+  {
+    "id": "garretts-pond",
+    "name": "Garretts Pond",
+    "town": "Barnstable",
+    "latitude": 41.690168,
+    "longitude": -70.347585,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.690168,+-70.347585?coh=219816&entry=tts&g_ep=EgoyMDI0MDgxOC4wKgBIAVAD"
+  },
+  {
+    "id": "gleason-pond",
+    "name": "Gleason Pond",
+    "town": "Framingham",
+    "latitude": 42.286053,
+    "longitude": -71.411568,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Gallagher+Park/@42.2863461,-71.411233,17.25z/data=!4m6!3m5!1s0x89e38843786281eb:0x4fed572335f30a55!8m2!3d42.2860529!4d-71.411568!16s%2Fg%2F11dfswqq32?entry=tts&g_ep=EgoyMDI0MDcyNC4wKgBIAVAD"
+  },
+  {
+    "id": "glen-charlie-pond",
+    "name": "Glen Charlie Pond",
+    "town": "Wareham",
+    "latitude": 41.795151,
+    "longitude": -70.645305,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B047'42.5%22N+70%C2%B038'43.1%22W/@41.795155,-70.6478798,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.795151!4d-70.6453049?entry=ttu"
+  },
+  {
+    "id": "goose-pond-chatham",
+    "name": "Goose Pond",
+    "town": "Chatham",
+    "latitude": 41.697834,
+    "longitude": -70.009393,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.697834,+-70.009393?coh=219816&entry=tts&g_ep=EgoyMDI0MDgxOC4wKgBIAVAD"
+  },
+  {
+    "id": "goose-pond",
+    "name": "Goose Pond",
+    "town": "Lee",
+    "latitude": 42.274378,
+    "longitude": -73.200844,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B016'27.8%22N+73%C2%B012'03.0%22W/@42.2743817,-73.2034193,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.2743778!4d-73.2008444?entry=ttu"
+  },
+  {
+    "id": "great-herring-pond",
+    "name": "Great Herring Pond",
+    "town": "Plymouth",
+    "latitude": 41.786508,
+    "longitude": -70.564003,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B047'11.4%22N+70%C2%B033'50.4%22W/@41.7865123,-70.5665777,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.7865083!4d-70.5640028?entry=ttu"
+  },
+  {
+    "id": "great-pond-truro",
+    "name": "Great Pond",
+    "town": "Truro",
+    "latitude": 41.973501,
+    "longitude": -70.033548,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.973501,+-70.033548?coh=219816&entry=tts&g_ep=EgoyMDI0MDgxOC4wKgBIAVAD"
+  },
+  {
+    "id": "greenwater-pond",
+    "name": "Greenwater Pond",
+    "town": "Becket",
+    "latitude": 42.281104,
+    "longitude": -73.143086,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.281104,+-73.143086?entry=tts&g_ep=EgoyMDI0MDUxNC4wKgBIAVAD"
+  },
+  {
+    "id": "grews-pond",
+    "name": "Grews Pond",
+    "town": "Falmouth",
+    "latitude": 41.568363,
+    "longitude": -70.613078,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.568363,+-70.613078?coh=219816&entry=tts&g_ep=EgoyMDI0MDgxOC4wKgBIAVAD"
+  },
+  {
+    "id": "halfway-pond",
+    "name": "Halfway Pond",
+    "town": "Plymouth",
+    "latitude": 41.856406,
+    "longitude": -70.623642,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B051'23.1%22N+70%C2%B037'25.1%22W/@41.85641,-70.6262169,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.856406!4d-70.623642?entry=ttu"
+  },
+  {
+    "id": "hallockville-pond",
+    "name": "Hallockville Pond",
+    "town": "Plainfield",
+    "latitude": 42.551617,
+    "longitude": -72.941961,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B033'05.8%22N+72%C2%B056'31.1%22W/@42.550618,-72.971847,13.5z/data=!4m4!3m3!8m2!3d42.5516167!4d-72.9419611?entry=ttu"
+  },
+  {
+    "id": "hamblin-pond",
+    "name": "Hamblin Pond",
+    "town": "Barnstable",
+    "latitude": 41.666868,
+    "longitude": -70.405322,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Hamblin+Pond/@41.6668083,-70.4062443,266m/data=!3m1!1e3!4m6!3m5!1s0x89fb331fc7e97a95:0x2c6f599445908c51!8m2!3d41.6668682!4d-70.4053216!16s%2Fg%2F11b6_cmqrv?coh=219816&entry=tts&g_ep=EgoyMDI0MDgxOC4wKgBIAVAD"
+  },
+  {
+    "id": "hamilton-reservoir",
+    "name": "Hamilton Reservoir",
+    "town": "Holland",
+    "latitude": 42.067778,
+    "longitude": -72.1525,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B004'04.0%22N+72%C2%B009'09.0%22W/@42.0677818,-72.1550749,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.0677778!4d-72.1525?entry=ttu"
+  },
+  {
+    "id": "hardwick-pond",
+    "name": "Hardwick Pond",
+    "town": "Hardwick",
+    "latitude": 42.310403,
+    "longitude": -72.241661,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B018'37.5%22N+72%C2%B014'30.0%22W/@42.3104067,-72.244236,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.3104028!4d-72.2416611?entry=ttu"
+  },
+  {
+    "id": "hathaway-pond",
+    "name": "Hathaway Pond",
+    "town": "Barnstable",
+    "latitude": 41.683031,
+    "longitude": -70.310781,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Hathaway+Pond+Boat+Ramp/@41.6825574,-70.3128502,448m/data=!3m1!1e3!4m6!3m5!1s0x89fb3135e78734a1:0xd27d1f683deaf711!8m2!3d41.6830306!4d-70.3107807!16s%2Fg%2F11b6_sg0x3?coh=219816&entry=tts&g_ep=EgoyMDI0MDgxOC4wKgBIAVAD"
+  },
+  {
+    "id": "heald-pond",
+    "name": "Heald Pond",
+    "town": "Pepperell",
+    "latitude": 42.673186,
+    "longitude": -71.634548,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Heald+Pond+Parking+Area/@42.6728274,-71.634109,199m/data=!3m1!1e3!4m6!3m5!1s0x89e3c113e10da07d:0x659b83c1eb8ef7d7!8m2!3d42.6731862!4d-71.6345484!16s%2Fg%2F11sr9v0nyq?entry=tts&g_ep=EgoyMDI0MDgyOC4wKgBIAVAD"
+  },
+  {
+    "id": "heart-pond",
+    "name": "Heart Pond",
+    "town": "Chelmsford",
+    "latitude": 42.568336,
+    "longitude": -71.381272,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B034'06.0%22N+71%C2%B022'52.6%22W/@42.56834,-71.3838471,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.5683361!4d-71.3812722?entry=ttu"
+  },
+  {
+    "id": "herring-pond",
+    "name": "Herring Pond",
+    "town": "Eastham",
+    "latitude": 41.822843,
+    "longitude": -69.988112,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Herring+Pond+Beach/@41.8240116,-69.9864231,632m/data=!3m1!1e3!4m6!3m5!1s0x89fb68f8fac625b1:0x457a8576accda425!8m2!3d41.822843!4d-69.988112!16s%2Fg%2F11c6src2x3?coh=219816&entry=tts&g_ep=EgoyMDI0MDgxOC4wKgBIAVAD"
+  },
+  {
+    "id": "higgins-pond-brewster",
+    "name": "Higgins Pond",
+    "town": "Brewster",
+    "latitude": 41.759305,
+    "longitude": -70.012195,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.759305,+-70.012195?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD"
+  },
+  {
+    "id": "hinkleys-pond",
+    "name": "Hinkleys Pond",
+    "town": "Hardwich",
+    "latitude": 41.707298,
+    "longitude": -70.083772,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Cape+Cod+Rail+Trail+Parking+Headwaters+Dr./@41.7076095,-70.0846634,254m/data=!3m1!1e3!4m6!3m5!1s0x89fb3f97053f5e4d:0xb60ac6bbba7315c5!8m2!3d41.7072981!4d-70.0837716!16s%2Fg%2F11c0vl5jy9?entry=tts"
+  },
+  {
+    "id": "holland-pond",
+    "name": "Holland Pond",
+    "town": "Holland",
+    "latitude": 42.081948,
+    "longitude": -72.166742,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.08429323%09-72.15952446/@42.0819484,-72.1667416,17z?entry=ttu"
+  },
+  {
+    "id": "hopedale-pond",
+    "name": "Hopedale Pond",
+    "town": "Hopedale",
+    "latitude": 42.135453,
+    "longitude": -71.544581,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B008'07.6%22N+71%C2%B032'40.5%22W/@42.135453,-71.544581,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.135453!4d-71.544581?entry=ttu"
+  },
+  {
+    "id": "hopkinton-reservoir",
+    "name": "Hopkinton Reservoir",
+    "town": "Ashland",
+    "latitude": 42.258057,
+    "longitude": -71.520815,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B015'29.0%22N+71%C2%B031'14.9%22W/@42.2580612,-71.5233895,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.2580573!4d-71.5208146?entry=ttu"
+  },
+  {
+    "id": "horn-pond",
+    "name": "Horn Pond",
+    "town": "Woburn",
+    "latitude": 42.464568,
+    "longitude": -71.153613,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Horn+Pond+Boat+Launch/@42.4646977,-71.1538669,108m/data=!3m1!1e3!4m6!3m5!1s0x89e375b63798c897:0xfb4c254e9e5a8dde!8m2!3d42.4645683!4d-71.1536129!16s%2Fg%2F11b7vdfy5c?entry=tts&g_ep=EgoyMDI0MDYxNS4wKgBIAVAD"
+  },
+  {
+    "id": "horse-pond",
+    "name": "Horse Pond",
+    "town": "North Brookfield",
+    "latitude": 42.296334,
+    "longitude": -72.072669,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.296334,+-72.072669?entry=tts&g_ep=EgoyMDI1MDMxMi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "hoveys-pond",
+    "name": "Hoveys Pond",
+    "town": "Boxford",
+    "latitude": 42.718805,
+    "longitude": -71.070038,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.718805,+-71.070038?entry=tts&g_ep=EgoyMDI1MDUxNS4wIPu8ASoASAFQAw%3D%3D&skid=9ab1c49b-7c71-4834-8b13-896fe4c2d06d"
+  },
+  {
+    "id": "indian-lake",
+    "name": "Indian Lake",
+    "town": "Worcester",
+    "latitude": 42.29325,
+    "longitude": -71.816267,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B017'35.7%22N+71%C2%B048'58.6%22W/@42.2932539,-71.8188416,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.29325!4d-71.8162667?entry=ttu"
+  },
+  {
+    "id": "island-grove-pond",
+    "name": "Island Grove Pond",
+    "town": "Abington",
+    "latitude": 42.111038,
+    "longitude": -70.941266,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.111038,+-70.941266?entry=tts"
+  },
+  {
+    "id": "jacobs-pond",
+    "name": "Jacobs Pond",
+    "town": "Norwell",
+    "latitude": 42.161807,
+    "longitude": -70.84478,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Jacobs+Pond+Parking+Area/@42.1616929,-70.8472793,314m/data=!3m1!1e3!4m6!3m5!1s0x89e361a9188bb96f:0x918989ea6a21c8ed!8m2!3d42.1618073!4d-70.8447799!16s%2Fg%2F11q9469gcx?entry=ttu"
+  },
+  {
+    "id": "jamaica-pond",
+    "name": "Jamaica Pond",
+    "town": "Boston",
+    "latitude": 42.315876,
+    "longitude": -71.117487,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Jamaica+Pond+Park/@42.3159235,-71.1177201,57m/data=!3m1!1e3!4m6!3m5!1s0x89e3795bb2315e91:0xf54a691436cdebb5!8m2!3d42.3158763!4d-71.1174874!16s%2Fg%2F11px9z42wj?entry=tts&g_ep=EgoyMDI0MDYxNS4xKgksMTAyMTA0NTBIAVAD"
+  },
+  {
+    "id": "jemima-pond",
+    "name": "Jemima Pond",
+    "town": "Eastham",
+    "latitude": 41.830358,
+    "longitude": -69.984369,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B049'49.3%22N+69%C2%B059'03.7%22W/@41.8303623,-69.9869443,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.8303583!4d-69.9843694?entry=ttu"
+  },
+  {
+    "id": "jenkins-pond",
+    "name": "Jenkins Pond",
+    "town": "Falmouth",
+    "latitude": 41.596106,
+    "longitude": -70.592349,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B035'46.0%22N+70%C2%B035'32.5%22W/@41.5961056,-70.594924,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.5961056!4d-70.5923491?entry=ttu"
+  },
+  {
+    "id": "jordan-pond",
+    "name": "Jordan Pond",
+    "town": "Shrewsbury",
+    "latitude": 42.269379,
+    "longitude": -71.747628,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.269379,+-71.747628?entry=tts&g_ep=EgoyMDI0MDYwMy4wKgBIAVAD"
+  },
+  {
+    "id": "knops-pondlost-lake",
+    "name": "Knopps Pond-Lost Lake",
+    "town": "Groton",
+    "latitude": 42.596625,
+    "longitude": -71.518391,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Lost+Lake+Boat+Ramp/@42.5970098,-71.5196871,386m/data=!3m1!1e3!4m6!3m5!1s0x89e3be36a57ba577:0xd525cb89a151727b!8m2!3d42.5966247!4d-71.518391!16s%2Fg%2F11b8vdj_jp?coh=219816&entry=tts&g_ep=EgoyMDI0MDcyOS4xKgBIAVAD"
+  },
+  {
+    "id": "lake-attitash",
+    "name": "Lake Attitash",
+    "town": "Amesbury",
+    "latitude": 42.842286,
+    "longitude": -70.981958,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B050'32.2%22N+70%C2%B058'55.1%22W/@42.84229,-70.9845332,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.8422861!4d-70.9819583?entry=ttu"
+  },
+  {
+    "id": "lake-bray",
+    "name": "Lake Bray",
+    "town": "Holyoke",
+    "latitude": 42.268952,
+    "longitude": -72.616594,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Mount+Tom+Parking/@42.2685704,-72.6165909,234m/data=!3m1!1e3!4m6!3m5!1s0x89e6d9e366a243e9:0x986cacc59591c666!8m2!3d42.2689518!4d-72.6165938!16s%2Fg%2F11rzry9wb4?entry=tts&g_ep=EgoyMDI1MDMxOC4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "lake-buel",
+    "name": "Lake Buel",
+    "town": "Monterey",
+    "latitude": 42.175067,
+    "longitude": -73.279822,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B010'30.2%22N+73%C2%B016'47.4%22W/@42.1750706,-73.2823971,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.1750667!4d-73.2798222?entry=ttu"
+  },
+  {
+    "id": "lake-chauncy",
+    "name": "Lake Chauncy",
+    "town": "Westborough",
+    "latitude": 42.297752,
+    "longitude": -71.609221,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.297752,+-71.609221?entry=tts&g_ep=EgoyMDI0MDcyNC4wKgBIAVAD"
+  },
+  {
+    "id": "lake-cochituate",
+    "name": "Lake Cochituate",
+    "town": "Wayland",
+    "latitude": 42.31025,
+    "longitude": -71.375444,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B018'36.9%22N+71%C2%B022'31.6%22W/@42.3102539,-71.3780193,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.31025!4d-71.3754444?entry=ttu"
+  },
+  {
+    "id": "lake-dennison",
+    "name": "Lake Denison",
+    "town": "Winchendon",
+    "latitude": 42.64215,
+    "longitude": -72.08967,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B038'31.7%22N+72%C2%B005'22.8%22W/@42.6421539,-72.0922449,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.64215!4d-72.08967?entry=ttu"
+  },
+  {
+    "id": "lake-ellis",
+    "name": "Lake Ellis",
+    "town": "Athol",
+    "latitude": 42.582069,
+    "longitude": -72.205535,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.582069,+-72.205535?entry=tts&g_ep=EgoyMDI1MDUwNS4wIPu8ASoASAFQAw%3D%3D&skid=839ecf2b-f8ec-48b9-b2c2-a02237a9c950"
+  },
+  {
+    "id": "lake-gardner",
+    "name": "Lake Gardner",
+    "town": "Amesbury",
+    "latitude": 42.860393,
+    "longitude": -70.937748,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Lake+Gardner+Beach/@42.860267,-70.9378505,132m/data=!3m1!1e3!4m6!3m5!1s0x89e2e389efac8de5:0x7fde0c7848380bde!8m2!3d42.8603932!4d-70.937748!16s%2Fg%2F1thbxp55?coh=219816&entry=tts&g_ep=EgoyMDI0MDcyOS4xKgBIAVAD"
+  },
+  {
+    "id": "lake-garfield",
+    "name": "Lake Garfield",
+    "town": "Monterey",
+    "latitude": 42.189833,
+    "longitude": -73.209739,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B011'23.4%22N+73%C2%B012'35.1%22W/@42.1898372,-73.2123138,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.1898333!4d-73.2097389?entry=ttu"
+  },
+  {
+    "id": "lake-george",
+    "name": "Lake George",
+    "town": "Wales",
+    "latitude": 42.06361,
+    "longitude": -72.22476,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B003'49.0%22N+72%C2%B013'29.1%22W/@42.06361,-72.22476,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.06361!4d-72.22476?entry=ttu"
+  },
+  {
+    "id": "lake-lashaway",
+    "name": "Lake Lashaway",
+    "town": "North Brookfield",
+    "latitude": 42.243881,
+    "longitude": -72.041578,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B014'38.0%22N+72%C2%B002'29.7%22W/@42.2438845,-72.0441527,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.2438806!4d-72.0415778?entry=ttu"
+  },
+  {
+    "id": "lake-lorraine",
+    "name": "Lake Lorraine",
+    "town": "Springfield",
+    "latitude": 42.144908,
+    "longitude": -72.517303,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B008'41.7%22N+72%C2%B031'02.3%22W/@42.144908,-72.5183856,260m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d42.144908!4d-72.517303?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": "lake-massapoag",
+    "name": "Lake Massapoag",
+    "town": "Sharon",
+    "latitude": 42.110808,
+    "longitude": -71.175806,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B006'38.9%22N+71%C2%B010'32.9%22W/@42.1108123,-71.1783805,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.1108083!4d-71.1758056?entry=ttu"
+  },
+  {
+    "id": "lake-mattawa",
+    "name": "Lake Mattawa",
+    "town": "Orange",
+    "latitude": 42.570469,
+    "longitude": -72.327083,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B034'13.7%22N+72%C2%B019'37.5%22W/@42.5704694,-72.3296582,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.5704694!4d-72.3270833?entry=ttu"
+  },
+  {
+    "id": "lake-nippenicket",
+    "name": "Lake Nippenicket",
+    "town": "Bridgewater",
+    "latitude": 41.964333,
+    "longitude": -71.033575,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B057'51.6%22N+71%C2%B002'00.9%22W/@41.9643333,-71.0361499,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.9643333!4d-71.033575?entry=ttu"
+  },
+  {
+    "id": "lake-pearl",
+    "name": "Lake Pearl",
+    "town": "Wrentham",
+    "latitude": 42.069347,
+    "longitude": -71.354825,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B004'09.7%22N+71%C2%B021'17.4%22W/@42.0693472,-71.3573999,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.0693472!4d-71.354825?entry=ttu"
+  },
+  {
+    "id": "pentucket-lake",
+    "name": "Lake Pentucket",
+    "town": "Haverhill",
+    "latitude": 42.789596,
+    "longitude": -71.073673,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Woidyla+Landing/@42.7897727,-71.0738606,136m/data=!3m1!1e3!4m6!3m5!1s0x89e30335183cf079:0x686b2b8fe80d9ff7!8m2!3d42.7895963!4d-71.073673!16s%2Fg%2F11fkd_ndry?coh=219816&entry=tts&g_ep=EgoyMDI0MDcyOS4xKgBIAVAD"
+  },
+  {
+    "id": "lake-quannapowitt",
+    "name": "Lake Quannapowitt",
+    "town": "Wakefield",
+    "latitude": 42.506993,
+    "longitude": -71.078256,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B030'25.2%22N+71%C2%B004'41.7%22W/@42.506993,-71.0782565,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.506993!4d-71.0782565?entry=ttu"
+  },
+  {
+    "id": "lake-quinsigamond",
+    "name": "Lake Quinsigamond",
+    "town": "Shrewsbury",
+    "latitude": 42.290889,
+    "longitude": -71.755693,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Public+boat+ramp,+Shrewsbury/@42.2912677,-71.7561409,17.25z/data=!4m6!3m5!1s0x89e40871243913bb:0xaf1ff52f0933e66f!8m2!3d42.2908887!4d-71.7556931!16s%2Fg%2F11dxlc24kw?entry=tts&g_ep=EgoyMDI0MDYwNS4wKgBIAVAD"
+  },
+  {
+    "id": "lake-ripple",
+    "name": "Lake Ripple",
+    "town": "Grafton",
+    "latitude": 42.20807,
+    "longitude": -71.696578,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.208070,+-71.696578?entry=tts&g_ep=EgoyMDI0MDYwNS4wKgBIAVAD"
+  },
+  {
+    "id": "lake-rohunta",
+    "name": "Lake Rohunta",
+    "town": "Athol",
+    "latitude": 42.561006,
+    "longitude": -72.275064,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B033'39.6%22N+72%C2%B016'30.2%22W/@42.5610056,-72.2776388,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.5610056!4d-72.2750639?entry=ttu"
+  },
+  {
+    "id": "lake-sabbatia",
+    "name": "Lake Sabbatia",
+    "town": "Taunton",
+    "latitude": 41.946626,
+    "longitude": -71.114235,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B056'47.9%22N+71%C2%B006'51.3%22W/@41.9466264,-71.1168102,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.9466264!4d-71.1142353?entry=ttu"
+  },
+  {
+    "id": "lake-saltonstall",
+    "name": "Lake Saltonstall",
+    "town": "Haverhill",
+    "latitude": 42.780806,
+    "longitude": -71.06425,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B046'50.9%22N+71%C2%B003'51.3%22W/@42.7808056,-71.0668249,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.7808056!4d-71.06425?entry=ttu"
+  },
+  {
+    "id": "lake-warner",
+    "name": "Lake Warner",
+    "town": "Hadley",
+    "latitude": 42.385947,
+    "longitude": -72.581086,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B023'09.4%22N+72%C2%B034'51.9%22W/@42.3859472,-72.583661,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.3859472!4d-72.5810861?entry=ttu"
+  },
+  {
+    "id": "lake-winthrop",
+    "name": "Lake Winthrop",
+    "town": "Holliston",
+    "latitude": 42.18993,
+    "longitude": -71.427248,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.189930,+-71.427248?entry=tts&g_ep=EgoyMDI0MDcwMS4wKgksMTAyMTA0NTBIAVAD"
+  },
+  {
+    "id": "lake-wyola",
+    "name": "Lake Wyola",
+    "town": "Shutesbury",
+    "latitude": 42.496612,
+    "longitude": -72.428593,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B029'47.8%22N+72%C2%B025'42.9%22W/@42.4966119,-72.4311677,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.4966119!4d-72.4285928?entry=ttu"
+  },
+  {
+    "id": "lancaster-mill-pond",
+    "name": "Lancaster Mill Pond",
+    "town": "Clinton",
+    "latitude": 42.410477,
+    "longitude": -71.682394,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.410477,+-71.682394?entry=tts&g_ep=EgoyMDI0MDcwMS4wKgksMTAyMTA0NTBIAVAD"
+  },
+  {
+    "id": "laurel-lake",
+    "name": "Laurel Lake",
+    "town": "Erving",
+    "latitude": 42.622072,
+    "longitude": -72.377775,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B037'19.5%22N+72%C2%B022'40.0%22W/@42.6220722,-72.3803499,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.6220722!4d-72.377775?entry=ttu"
+  },
+  {
+    "id": "laurel-lake-lee",
+    "name": "Laurel Lake",
+    "town": "Lee",
+    "latitude": 42.324733,
+    "longitude": -73.261407,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B019'29.0%22N+73%C2%B015'41.1%22W/@42.3247327,-73.2614066,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.3247327!4d-73.2614066?entry=ttu"
+  },
+  {
+    "id": "lawrence-pond",
+    "name": "Lawrence Pond",
+    "town": "Sandwich",
+    "latitude": 41.694191,
+    "longitude": -70.440246,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.694191,+-70.440246?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD"
+  },
+  {
+    "id": "leadmine-pond",
+    "name": "Leadmine Pond",
+    "town": "Sturbridge",
+    "latitude": 42.065407,
+    "longitude": -72.126932,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B003'55.5%22N+72%C2%B007'37.0%22W/@42.0654075,-72.1295074,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.0654075!4d-72.1269325?entry=ttu"
+  },
+  {
+    "id": "leverett-pond",
+    "name": "Leverett Pond",
+    "town": "Leverett",
+    "latitude": 42.45105,
+    "longitude": -72.502536,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B027'03.8%22N+72%C2%B030'09.1%22W/@42.45105,-72.505111,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.45105!4d-72.5025361?entry=ttu"
+  },
+  {
+    "id": "little-alum-pond",
+    "name": "Little Alum Pond",
+    "town": "Brimfield",
+    "latitude": 42.129798,
+    "longitude": -72.147946,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Little+Alum+Boat+Launch/@42.1295747,-72.1478816,114m/data=!3m1!1e3!4m6!3m5!1s0x89e6bdba7a326ca1:0x2eb0cdce0b3d2518!8m2!3d42.1297981!4d-72.1479457!16s%2Fg%2F11hyt5c68z?entry=tts&g_ep=EgoyMDI0MDYwMi4wKgBIAVAD"
+  },
+  {
+    "id": "little-cliff-pond",
+    "name": "Little Cliff Pond",
+    "town": "Brewster",
+    "latitude": 41.759986,
+    "longitude": -70.017808,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B045'36.0%22N+70%C2%B001'04.1%22W/@41.7599861,-70.0203832,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.7599861!4d-70.0178083?entry=ttu"
+  },
+  {
+    "id": "little-long-pond",
+    "name": "Little Long Pond",
+    "town": "Plymouth",
+    "latitude": 41.866722,
+    "longitude": -70.610139,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B052'00.2%22N+70%C2%B036'36.5%22W/@41.8667262,-70.6127138,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.8667222!4d-70.6101389?entry=ttu"
+  },
+  {
+    "id": "little-pond",
+    "name": "Little Pond",
+    "town": "Plymouth",
+    "latitude": 41.943892,
+    "longitude": -70.683699,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Morton+Pond/@41.9442321,-70.6869083,16.5z/data=!4m6!3m5!1s0x89e4bbd3546b2633:0x1941e8f33917e420!8m2!3d41.9438923!4d-70.6836986!16s%2Fg%2F11v9c4brpk?entry=ttu"
+  },
+  {
+    "id": "little-sandy-pond",
+    "name": "Little Sandy Pond",
+    "town": "Plymouth",
+    "latitude": 41.794229,
+    "longitude": -70.605794,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.794229,+-70.605794?entry=tts&g_ep=EgoyMDI0MDgyOC4wKgBIAVAD"
+  },
+  {
+    "id": "little-south-pond",
+    "name": "Little South Pond",
+    "town": "Plymouth",
+    "latitude": 41.918245,
+    "longitude": -70.67626,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B055'05.7%22N+70%C2%B040'34.5%22W/@41.9182447,-70.6788349,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.9182447!4d-70.67626?entry=ttu"
+  },
+  {
+    "id": "littleville-reservoir",
+    "name": "Littleville Reservoir",
+    "town": "Chester",
+    "latitude": 42.268874,
+    "longitude": -72.879949,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B016'07.9%22N+72%C2%B052'47.8%22W/@42.2688775,-72.8825235,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.2688736!4d-72.8799486?entry=ttu"
+  },
+  {
+    "id": "long-pond-marston-mills",
+    "name": "Long Pond",
+    "town": "Barnstable",
+    "latitude": 41.669781,
+    "longitude": -70.439172,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Long+Pond+Conservation+Area/@41.6698943,-70.4389654,146m/data=!3m1!1e3!4m6!3m5!1s0x89e4cd00644178cb:0x435786f1885d6baa!8m2!3d41.6697807!4d-70.4391715!16s%2Fg%2F11vrfpc6qv?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD"
+  },
+  {
+    "id": "long-pond-brewster",
+    "name": "Long Pond",
+    "town": "Brewster",
+    "latitude": 41.719911,
+    "longitude": -70.067697,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B043'11.7%22N+70%C2%B004'03.7%22W/@41.7199151,-70.0702721,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.7199111!4d-70.0676972?entry=ttu"
+  },
+  {
+    "id": "long-pond-lakevillefreetown",
+    "name": "Long Pond",
+    "town": "Lakeville",
+    "latitude": 41.783186,
+    "longitude": -70.929488,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B046'59.5%22N+70%C2%B055'46.2%22W/@41.7831863,-70.9320628,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.7831863!4d-70.9294879?entry=ttu"
+  },
+  {
+    "id": "long-pond-littleton",
+    "name": "Long Pond",
+    "town": "Littleton",
+    "latitude": 42.532015,
+    "longitude": -71.465407,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Long+Lake+Boat+Ramp/@42.5319775,-71.465616,142m/data=!3m1!1e3!4m6!3m5!1s0x89e397ef243c7ddd:0xf10a906d4db7f270!8m2!3d42.5320148!4d-71.4654072!16s%2Fg%2F11h7fyqw8m?entry=tts&g_ep=EgoyMDI0MDcyNC4wKgBIAVAD"
+  },
+  {
+    "id": "long-pond-plymouth",
+    "name": "Long Pond",
+    "town": "Plymouth",
+    "latitude": 41.866019,
+    "longitude": -70.609428,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Long+Pond+Plymouth+Boat+Ramp/@41.8657615,-70.6092661,209m/data=!3m1!1e3!4m6!3m5!1s0x89e4b76f8bf494fb:0x6bc37b0f8baccca7!8m2!3d41.8660188!4d-70.6094283!16s%2Fg%2F11c5h25vd6?coh=219816&entry=tts&g_ep=EgoyMDI0MDgwNS4wKgBIAVAD"
+  },
+  {
+    "id": "long-pond-rutland",
+    "name": "Long Pond",
+    "town": "Rutland",
+    "latitude": 42.358503,
+    "longitude": -71.992366,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Long+Pond+Boat+ramp/@42.3585072,-71.994941,17z/data=!4m12!1m5!3m4!2zNDLCsDIxJzMwLjYiTiA3McKwNTknMzIuNSJX!8m2!3d42.3585033!4d-71.9923661!3m5!1s0x89e1552ea7f17a29:0x1642e08a22377b43!8m2!3d42.3602509!4d-71.9926719!16s%2Fg%2F11cmdfrkw2?entry=ttu"
+  },
+  {
+    "id": "long-pond-sturbridge",
+    "name": "Long Pond",
+    "town": "Sturbridge",
+    "latitude": 42.112979,
+    "longitude": -72.131519,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Long+Pond+Boat+Ramp/@42.1130328,-72.1314046,131m/data=!3m1!1e3!4m6!3m5!1s0x89e6a3fd5c9a7c49:0xbb72f6dd3731733d!8m2!3d42.1129791!4d-72.1315195!16s%2Fg%2F11qm3p8mx6?entry=tts&g_ep=EgoyMDI0MDYwMi4wKgBIAVAD"
+  },
+  {
+    "id": "long-pond-wellfleet",
+    "name": "Long Pond",
+    "town": "Wellfleet",
+    "latitude": 41.9452,
+    "longitude": -70.011401,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B056'42.7%22N+70%C2%B000'41.0%22W/@41.9452004,-70.0114011,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.9452004!4d-70.0114011?entry=ttu"
+  },
+  {
+    "id": "long-pond-yarmouth",
+    "name": "Long Pond",
+    "town": "Yarmouth",
+    "latitude": 41.668062,
+    "longitude": -70.200877,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B040'05.0%22N+70%C2%B012'03.2%22W/@41.6680618,-70.2034519,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.6680618!4d-70.200877?entry=ttu"
+  },
+  {
+    "id": "long-sought-for-pond",
+    "name": "Long Sought-For Pond",
+    "town": "Westford",
+    "latitude": 42.616989,
+    "longitude": -71.4496,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B037'01.2%22N+71%C2%B026'58.6%22W/@42.6169622,-71.4521781,17z/data=!4m4!3m3!8m2!3d42.616989!4d-71.4495995?entry=ttu"
+  },
+  {
+    "id": "loon-pond-lakeville",
+    "name": "Loon Pond",
+    "town": "Lakeville",
+    "latitude": 41.850948,
+    "longitude": -70.954765,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Ted+Williams+Camp/@41.8510793,-70.9561567,283m/data=!3m1!1e3!4m6!3m5!1s0x89e4ed1d37fc7b09:0x69f7f5d7adddc2b!8m2!3d41.8509483!4d-70.9547653!16s%2Fg%2F1tdpn2zh?entry=tts"
+  },
+  {
+    "id": "loon-pond-springfield",
+    "name": "Loon Pond",
+    "town": "Springfield",
+    "latitude": 42.144377,
+    "longitude": -72.501486,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B008'39.8%22N+72%C2%B030'05.4%22W/@42.144377,-72.5014864,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.144377!4d-72.5014864?entry=ttu"
+  },
+  {
+    "id": "lout-pond",
+    "name": "Lout Pond",
+    "town": "Plymouth",
+    "latitude": 41.93691,
+    "longitude": -70.670632,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.936910,+-70.670632?entry=tts"
+  },
+  {
+    "id": "lovells-pond",
+    "name": "Lovells Pond",
+    "town": "Barnstable",
+    "latitude": 41.648989,
+    "longitude": -70.445644,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.648989,+-70.445644?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD"
+  },
+  {
+    "id": "lower-highland-lake",
+    "name": "Lower Highland Lake",
+    "town": "Goshen",
+    "latitude": 42.45664,
+    "longitude": -72.799464,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.456640,+-72.799464?entry=tts&g_ep=EgoyMDI0MTIwNC4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "lower-mill-pond",
+    "name": "Lower Millpond",
+    "town": "Easthampton",
+    "latitude": 42.274571,
+    "longitude": -72.65831,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Parking+lot,+Easthampton,+MA+01027/@42.2745536,-72.6580842,117m/data=!3m1!1e3!4m6!3m5!1s0x89e6d9ab8bcc176f:0x2e9312f2c4d6ab41!8m2!3d42.274571!4d-72.6583099!16s%2Fg%2F11c17fc4rm?entry=tts&g_ep=EgoyMDI1MDMxNy4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "lower-mystic-lake",
+    "name": "Lower Mystic Lake",
+    "town": "Arlington/Medford",
+    "latitude": 42.430782,
+    "longitude": -71.147426,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.430782,+-71.147426?entry=tts&g_ep=EgoyMDI1MDYzMC4wIPu8ASoASAFQAw%3D%3D&skid=0b0af472-5fcb-4710-abb9-08adad8bedbc"
+  },
+  {
+    "id": "lower-spectacle-pond",
+    "name": "Lower Spectacle Pond",
+    "town": "Sandisfield",
+    "latitude": 42.161202,
+    "longitude": -73.120265,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.161202,+-73.120265?entry=tts&g_ep=EgoyMDI0MDUxNC4wKgBIAVAD"
+  },
+  {
+    "id": "manchaug-pond",
+    "name": "Manchaug Pond",
+    "town": "Sutton",
+    "latitude": 42.091407,
+    "longitude": -71.768612,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Manchaug+pond+boat+ramp/@42.0913355,-71.7690012,199m/data=!3m1!1e3!4m6!3m5!1s0x89e41b528cb5f033:0xc296f07303bc12d3!8m2!3d42.0914069!4d-71.7686116!16s%2Fg%2F11jkrrlp12?entry=tts&g_ep=EgoyMDI0MDYwMy4wKgBIAVAD"
+  },
+  {
+    "id": "mansfield-pond",
+    "name": "Mansfield Pond",
+    "town": "Great Barrington",
+    "latitude": 42.201151,
+    "longitude": -73.367675,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.201151,+-73.367675?entry=tts&g_ep=EgoyMDI1MDUxMy4xIPu8ASoASAFQAw%3D%3D&skid=f2b551b0-be4a-4e58-9116-21a569a8132b"
+  },
+  {
+    "id": "maple-spring-peter-carr-pond",
+    "name": "Maple Spring Pond",
+    "town": "Holden",
+    "latitude": 42.377799,
+    "longitude": -71.883317,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.377799,+-71.883317?entry=tts&g_ep=EgoyMDI0MDcwOC4xKgksMTAyMTA0NTBIAVAD"
+  },
+  {
+    "id": "maquan-pond",
+    "name": "Maquan Pond",
+    "town": "Hanson",
+    "latitude": 42.056543,
+    "longitude": -70.852042,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B003'23.6%22N+70%C2%B051'07.4%22W/@42.0565432,-70.8520424,17z/data=!4m4!3m3!8m2!3d42.0565432!4d-70.8520424?entry=ttu"
+  },
+  {
+    "id": "mares-pond",
+    "name": "Mares Pond",
+    "town": "Falmouth",
+    "latitude": 41.589612,
+    "longitude": -70.601636,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B035'22.6%22N+70%C2%B036'05.9%22W/@41.5896123,-70.6016356,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.5896123!4d-70.6016356?entry=ttu"
+  },
+  {
+    "id": "marys-pond",
+    "name": "Marys Pond",
+    "town": "Rochester",
+    "latitude": 41.754444,
+    "longitude": -70.793852,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B045'16.0%22N+70%C2%B047'37.9%22W/@41.7544444,-70.7964266,17z/data=!4m4!3m3!8m2!3d41.7544444!4d-70.7938517?entry=ttu"
+  },
+  {
+    "id": "mascuppic-lake",
+    "name": "Mascuppic Lake",
+    "town": "Tyngsborough",
+    "latitude": 42.679271,
+    "longitude": -71.37487,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B040'45.4%22N+71%C2%B022'29.5%22W/@42.6792705,-71.3774449,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.6792705!4d-71.37487?entry=ttu"
+  },
+  {
+    "id": "mashpee-wakeby-ponds",
+    "name": "Mashpee-Wakeby Pond",
+    "town": "Sandwich",
+    "latitude": 41.652198,
+    "longitude": -70.481376,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Mashpee-Wakeby+Boat+Ramp/@41.6526064,-70.4824627,341m/data=!3m1!1e3!4m6!3m5!1s0x89e4cd9d04c4098f:0xc3a9065a29ab8c13!8m2!3d41.6521978!4d-70.4813765!16s%2Fg%2F11b6_dbpjz?entry=tts&g_ep=EgoyMDI0MDgyMy4wKgBIAVAD"
+  },
+  {
+    "id": "massapoag-pond-dunstable",
+    "name": "Massapoag Pond",
+    "town": "Tyngsborough",
+    "latitude": 42.638703,
+    "longitude": -71.497539,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B038'19.3%22N+71%C2%B029'51.1%22W/@42.6387028,-71.5001138,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.6387028!4d-71.4975389?entry=ttu"
+  },
+  {
+    "id": "mauserts-pond",
+    "name": "Mauserts Pond",
+    "town": "Clarksburg",
+    "latitude": 42.733908,
+    "longitude": -73.076184,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Clarksburg+State+Park/@42.7346007,-73.0789829,17z/data=!4m6!3m5!1s0x89e0c767e3ba5081:0xea5172906c2832d!8m2!3d42.7339083!4d-73.0761838!16s%2Fm%2F09g7rrm?entry=tts&g_ep=EgoyMDI0MDUxNC4wKgBIAVAD"
+  },
+  {
+    "id": "mckinstry-pond",
+    "name": "Mckinstry Pond",
+    "town": "Oxford",
+    "latitude": 42.127192,
+    "longitude": -71.868515,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.127192,+-71.868515?entry=tts&g_ep=EgoyMDI1MDEwNy4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "mcleod-pond",
+    "name": "Mcleod Pond",
+    "town": "Colrain",
+    "latitude": 42.64888,
+    "longitude": -72.74528,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B038'56.0%22N+72%C2%B044'43.0%22W/@42.64888,-72.74528,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.64888!4d-72.74528?entry=ttu"
+  },
+  {
+    "id": "merino-pond",
+    "name": "Merino Pond",
+    "town": "Dudley",
+    "latitude": 42.047265,
+    "longitude": -71.901745,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Dudley+Beach/@42.0497462,-71.9001872,16z/data=!4m6!3m5!1s0x89e41f7650b336ed:0x9c2027fbceac6509!8m2!3d42.0472652!4d-71.9017448!16s%2Fg%2F11cr_g4gzy?entry=tts&g_ep=EgoyMDI0MDYwMi4wKgBIAVAD"
+  },
+  {
+    "id": "metacomet-lake",
+    "name": "Metacomet Lake",
+    "town": "Belchertown",
+    "latitude": 42.303636,
+    "longitude": -72.430419,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B018'13.1%22N+72%C2%B025'49.5%22W/@42.3040453,-72.4316863,17.5z/data=!4m4!3m3!8m2!3d42.3036361!4d-72.4304194?entry=ttu"
+  },
+  {
+    "id": "micajah-pond",
+    "name": "Micajah Pond",
+    "town": "Plymouth",
+    "latitude": 41.919209,
+    "longitude": -70.696005,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B055'09.2%22N+70%C2%B041'45.6%22W/@41.9192085,-70.6960053,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.9192085!4d-70.6960053?entry=ttu"
+  },
+  {
+    "id": "mill-pond-harwich",
+    "name": "Mill Pond",
+    "town": "Harwich",
+    "latitude": 41.725343,
+    "longitude": -70.03778,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.725343,+-70.037780?entry=tts"
+  },
+  {
+    "id": "mirror-lake",
+    "name": "Mirror-Little Mirror Lake",
+    "town": "Harvard",
+    "latitude": 42.528976,
+    "longitude": -71.613641,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.528976,+-71.613641?entry=tts&g_ep=EgoyMDI0MDcwNy4xKgksMTAyMTA0NTBIAVAD"
+  },
+  {
+    "id": "moores-pond",
+    "name": "Moores Pond",
+    "town": "Warwick",
+    "latitude": 42.6571,
+    "longitude": -72.34956,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B039'25.6%22N+72%C2%B020'58.4%22W/@42.6571,-72.34956,17z/data=!4m4!3m3!8m2!3d42.6571!4d-72.34956?entry=ttu"
+  },
+  {
+    "id": "moosehorn-pond",
+    "name": "Moosehorn Pond",
+    "town": "Hubbardston",
+    "latitude": 42.465854,
+    "longitude": -71.968598,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B027'57.1%22N+71%C2%B058'07.0%22W/@42.465177,-71.9699686,16.25z/data=!4m4!3m3!8m2!3d42.4658542!4d-71.9685984?entry=ttu"
+  },
+  {
+    "id": "moulton-pond",
+    "name": "Moulton Pond",
+    "town": "Rutland",
+    "latitude": 42.385709,
+    "longitude": -71.958265,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.385709,+-71.958265?entry=tts&g_ep=EgoyMDI0MDUyOS4wKgBIAVAD"
+  },
+  {
+    "id": "mystic-lake-barnstable",
+    "name": "Mystic Lake",
+    "town": "Barnstable",
+    "latitude": 41.684498,
+    "longitude": -70.414142,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.684498,+-70.414142?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD"
+  },
+  {
+    "id": "nabnasset-pond",
+    "name": "Nabnasset Pond",
+    "town": "Westford",
+    "latitude": 42.616256,
+    "longitude": -71.419347,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B036'58.5%22N+71%C2%B025'09.7%22W/@42.616256,-71.419347,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.616256!4d-71.419347?entry=ttu"
+  },
+  {
+    "id": "nashawannuck-pond",
+    "name": "Nashawannuck Pond",
+    "town": "Easthampton",
+    "latitude": 42.25937,
+    "longitude": -72.664475,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B015'33.7%22N+72%C2%B039'52.1%22W/@42.2593699,-72.6644754,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.2593699!4d-72.6644754?entry=ttu"
+  },
+  {
+    "id": "newfield-pond",
+    "name": "Newfield Pond",
+    "town": "Chelmsford",
+    "latitude": 42.632008,
+    "longitude": -71.386274,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Freeman+Lake+access/@42.6318948,-71.3862052,66m/data=!3m1!1e3!4m6!3m5!1s0x89e3bcabbd13b1fb:0x810e2d9d616e2ce6!8m2!3d42.6320078!4d-71.3862744!16s%2Fg%2F11c1pgtsbl?coh=219816&entry=tts&g_ep=EgoyMDI0MDcyOS4xKgBIAVAD"
+  },
+  {
+    "id": "newton-pond",
+    "name": "Newton Pond",
+    "town": "Shrewbury/Boylston",
+    "latitude": 42.308272,
+    "longitude": -71.749498,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Newton+Pond+Boat+Ramp/@42.3082206,-71.7495483,42m/data=!3m1!1e3!4m6!3m5!1s0x89e4099860174eaf:0x99d328ae60c12d3c!8m2!3d42.3082717!4d-71.7494977!16s%2Fg%2F11fj4vj5hm?entry=tts&g_ep=EgoyMDI0MDYwNC4wKgBIAVAD"
+  },
+  {
+    "id": "newtown-reservoir",
+    "name": "Newtown Reservoir",
+    "town": "Athol",
+    "latitude": 42.593712,
+    "longitude": -72.171264,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Newton+Reservoir+parking/@42.5938961,-72.1716824,195m/data=!3m1!1e3!4m6!3m5!1s0x89e145aa4c5bc40f:0x3208f01d4e9ae066!8m2!3d42.5937116!4d-72.1712639!16s%2Fg%2F11jyg1lm_x?entry=tts&g_ep=EgoyMDI1MDMxMS4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "ninemile-pond",
+    "name": "Ninemile Pond",
+    "town": "Wilbraham",
+    "latitude": 42.15097,
+    "longitude": -72.43203,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B009'03.5%22N+72%C2%B025'55.3%22W/@42.15097,-72.43203,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.15097!4d-72.43203?entry=ttu"
+  },
+  {
+    "id": "nipmuck-pond",
+    "name": "Nipmuck Pond",
+    "town": "Mendon",
+    "latitude": 42.098236,
+    "longitude": -71.566005,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Mendon+Town+Beach/@42.0978784,-71.5671708,235m/data=!3m1!1e3!4m6!3m5!1s0x89e46d295cefca8d:0xe4ddfe85a7913a6c!8m2!3d42.098236!4d-71.566005!16s%2Fg%2F1tkmnkxl?entry=tts&g_ep=EgoyMDI0MDYwNS4wKgBIAVAD"
+  },
+  {
+    "id": "north-pond-florida",
+    "name": "North Pond",
+    "town": "Florida",
+    "latitude": 42.653193,
+    "longitude": -73.053013,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B039'11.5%22N+73%C2%B003'10.9%22W/@42.653193,-73.0530129,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.653193!4d-73.0530129?entry=ttu"
+  },
+  {
+    "id": "north-maspenock-pond",
+    "name": "North Pond",
+    "town": "Hopkington",
+    "latitude": 42.205597,
+    "longitude": -71.558733,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.205597,+-71.558733?entry=tts"
+  },
+  {
+    "id": "norton-reservoir",
+    "name": "Norton Reservoir",
+    "town": "Norton",
+    "latitude": 41.989719,
+    "longitude": -71.195478,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B059'23.0%22N+71%C2%B011'43.7%22W/@41.9897194,-71.1954778,17z/data=!4m4!3m3!8m2!3d41.9897194!4d-71.1954778?entry=ttu"
+  },
+  {
+    "id": "norwhich-pond",
+    "name": "Norwich Pond",
+    "town": "Huntington",
+    "latitude": 42.30755,
+    "longitude": -72.82882,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B018'27.2%22N+72%C2%B049'43.8%22W/@42.30755,-72.82882,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.30755!4d-72.82882?entry=ttu"
+  },
+  {
+    "id": "nutting-lake",
+    "name": "Nutting Lake",
+    "town": "Billerica",
+    "latitude": 42.533661,
+    "longitude": -71.269847,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Nutting+Lake+Beach/@42.5335056,-71.2699062,135m/data=!3m1!1e3!4m6!3m5!1s0x89e39f5b88931f89:0x1dcc686bab8fbe59!8m2!3d42.5336613!4d-71.2698468!16s%2Fg%2F11b8twykr8?entry=tts"
+  },
+  {
+    "id": "oldham-pond",
+    "name": "Oldham Pond",
+    "town": "Pembroke",
+    "latitude": 42.062064,
+    "longitude": -70.830611,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Pembroke+Town+Landing/@42.0620354,-70.8305651,228m/data=!3m1!1e3!4m6!3m5!1s0x89e499e3b65f2f97:0x7853b1da8db24e84!8m2!3d42.0620643!4d-70.8306114!16s%2Fg%2F11qh9by1tr?entry=tts"
+  },
+  {
+    "id": "onota-lake",
+    "name": "Onota Lake",
+    "town": "Pittsfield",
+    "latitude": 42.465586,
+    "longitude": -73.279553,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Onota+Lake+Boat+Launch/@42.4654722,-73.2795556,17z/data=!4m6!3m5!1s0x89e751a209b45e15:0x3e1556ac0dd99a59!8m2!3d42.4655861!4d-73.2795529!16s%2Fg%2F11hdj73xxp?entry=tts"
+  },
+  {
+    "id": "otis-reservoir",
+    "name": "Otis Reservoir",
+    "town": "Otis",
+    "latitude": 42.144792,
+    "longitude": -73.043503,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B008'41.3%22N+73%C2%B002'36.6%22W/@42.1393604,-73.0529267,14.25z/data=!4m4!3m3!8m2!3d42.1447916!4d-73.0435026?entry=ttu"
+  },
+  {
+    "id": "oxbow",
+    "name": "Oxbow",
+    "town": "Easthampton",
+    "latitude": 42.287855,
+    "longitude": -72.617978,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Oxbow+Ramp,+Connecticut+River/@42.2878578,-72.6197988,17z/data=!3m1!4b1!4m6!3m5!1s0x89e6d8fbfd1587f7:0x6403f3ddfdbff383!8m2!3d42.287855!4d-72.6179781!16s%2Fg%2F11f1jw586r?entry=ttu"
+  },
+  {
+    "id": "paradise-pond",
+    "name": "Paradise Pond",
+    "town": "Leominster",
+    "latitude": 42.498813,
+    "longitude": -71.857636,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Paradise+Pond+Trail+Leominster+State+Forest/@42.4987922,-71.8584965,453m/data=!3m1!1e3!4m6!3m5!1s0x89e3e318b4d7a9f7:0x1273325aea0d5f23!8m2!3d42.4988131!4d-71.8576357!16s%2Fg%2F11tdr4bcjb?entry=tts"
+  },
+  {
+    "id": "patch-reservoir",
+    "name": "Patch Reservoir",
+    "town": "Worcester",
+    "latitude": 42.266578,
+    "longitude": -71.853638,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.266578,+-71.853638?entry=tts&g_ep=EgoyMDI1MDQyMi4wIPu8ASoASAFQAw%3D%3D&skid=e83f36d0-5ea9-41cd-a4e1-aa87637ea85f"
+  },
+  {
+    "id": "pelham-lake",
+    "name": "Pelham Lake",
+    "town": "Rowe",
+    "latitude": 42.701495,
+    "longitude": -72.886957,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Rowe+Parks+Department/@42.7014358,-72.8871073,160m/data=!3m1!1e3!4m6!3m5!1s0x89e0c4d4c0cba0f5:0xc9dadf90f8fc5777!8m2!3d42.7014949!4d-72.886957!16s%2Fg%2F1tg6r3cw?entry=tts"
+  },
+  {
+    "id": "pentucket-pond",
+    "name": "Pentucket Pond",
+    "town": "Georgetown",
+    "latitude": 42.735342,
+    "longitude": -70.995892,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B044'07.2%22N+70%C2%B059'45.2%22W/@42.7353459,-70.9984669,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.735342!4d-70.995892?entry=ttu"
+  },
+  {
+    "id": "pequot-pond-hampton-ponds",
+    "name": "Pequot (Hampton) Pond",
+    "town": "Westfield",
+    "latitude": 42.178483,
+    "longitude": -72.694386,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Hampton+Pond+Fisherman+Parking/@42.1787376,-72.6948951,17.75z/data=!4m6!3m5!1s0x89e6dfac70f43b43:0x5bf93ac1868f20b0!8m2!3d42.1784832!4d-72.6943864!16s%2Fg%2F11sw0_7cs1?entry=tts&g_ep=EgoyMDI0MDUxNC4wKgBIAVAD"
+  },
+  {
+    "id": "peters-pond",
+    "name": "Peters Pond",
+    "town": "Sandwich",
+    "latitude": 41.685383,
+    "longitude": -70.485252,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Peters+pond+boat+ramp/@41.6860941,-70.4860145,17.5z/data=!4m6!3m5!1s0x89e4cc5152062a15:0x7e2b728da838b76e!8m2!3d41.6853828!4d-70.4852523!16s%2Fg%2F11b6_nbg_6?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD"
+  },
+  {
+    "id": "pilgrim-lake",
+    "name": "Pilgrim Lake",
+    "town": "Orleans",
+    "latitude": 41.767228,
+    "longitude": -69.977552,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Pilgrim+Lake+Recreation+%26+Cons.+Area,+80+Herring+Brook+Way,+Orleans,+MA+02653/@41.7672175,-69.9783407,17z/data=!4m6!3m5!1s0x89fb6be9948ff387:0xc4fe6e9ee4d38728!8m2!3d41.7672284!4d-69.9775524!16s%2Fg%2F11bvtjvny9?entry=tts"
+  },
+  {
+    "id": "pillings-pond",
+    "name": "Pillings Pond",
+    "town": "Lynnfield",
+    "latitude": 42.528347,
+    "longitude": -71.032931,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Rotary+Park/@42.5284444,-71.03292,211m/data=!3m1!1e3!4m6!3m5!1s0x89e30dec6e379c11:0x738816064cc06e02!8m2!3d42.5283467!4d-71.0329311!16s%2Fg%2F11gnrwchvp?entry=tts"
+  },
+  {
+    "id": "pimlico-pond",
+    "name": "Pimlico Pond",
+    "town": "Sandwich",
+    "latitude": 41.681306,
+    "longitude": -70.497861,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B040'52.7%22N+70%C2%B029'52.3%22W/@41.6813056,-70.500436,17z/data=!3m1!4b1!4m4!3m3!8m2!3d41.6813056!4d-70.4978611?entry=ttu"
+  },
+  {
+    "id": "plainfield-pond",
+    "name": "Plainfield Pond",
+    "town": "Plainfield",
+    "latitude": 42.53975,
+    "longitude": -72.95837,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B032'23.1%22N+72%C2%B057'30.1%22W/@42.53975,-72.95837,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.53975!4d-72.95837?entry=ttu"
+  },
+  {
+    "id": "pleasant-pond",
+    "name": "Pleasant Pond",
+    "town": "Wenham",
+    "latitude": 42.615508,
+    "longitude": -70.896453,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B036'55.8%22N+70%C2%B053'47.2%22W/@42.615518,-70.8964103,17.25z/data=!4m4!3m3!8m2!3d42.615508!4d-70.896453?entry=ttu"
+  },
+  {
+    "id": "plunkett-reservoir",
+    "name": "Plunkett Reservoir",
+    "town": "Hinsdale",
+    "latitude": 42.42628,
+    "longitude": -73.13155,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B025'34.6%22N+73%C2%B007'53.6%22W/@42.42628,-73.13155,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.42628!4d-73.13155?entry=ttu"
+  },
+  {
+    "id": "pomps-pond",
+    "name": "Pomps Pond",
+    "town": "Andover",
+    "latitude": 42.636478,
+    "longitude": -71.149685,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Pomps+Pond/@42.6364777,-71.1496848,17z/data=!4m12!1m5!3m4!2zNDLCsDM4JzExLjMiTiA3McKwMDgnNTguOSJX!8m2!3d42.6364777!4d-71.1496848!3m5!1s0x89e30854ccf638cd:0x9ff30e1329256109!8m2!3d42.6368113!4d-71.1497593!16s%2Fg%2F1v4pt_yn?entry=ttu"
+  },
+  {
+    "id": "ponkapoag-pond",
+    "name": "Ponkapoag Pond",
+    "town": "Randolph",
+    "latitude": 42.186607,
+    "longitude": -71.093472,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Fisherman's+Beach+Parking/@42.1863682,-71.0935319,243m/data=!3m1!1e3!4m6!3m5!1s0x89e48300469cdc5f:0x95d16cd06a4faac9!8m2!3d42.1866073!4d-71.0934721!16s%2Fg%2F11w4xhwrd8?entry=tts&g_ep=EgoyMDI0MDkxMC4wKgBIAVAD"
+  },
+  {
+    "id": "pontoosuc-lake",
+    "name": "Pontoosuc Lake",
+    "town": "Lanesborough",
+    "latitude": 42.48476,
+    "longitude": -73.247299,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B029'05.1%22N+73%C2%B014'50.3%22W/@42.4844434,-73.2482429,17z/data=!4m4!3m3!8m2!3d42.4847599!4d-73.2472988?entry=ttu"
+  },
+  {
+    "id": "pout-pond",
+    "name": "Pout Pond",
+    "town": "Uxbridge",
+    "latitude": 42.08661,
+    "longitude": -71.609703,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Pout+Pond/@42.0872834,-71.6100811,330m/data=!3m1!1e3!4m6!3m5!1s0x89e4130c3626dbaf:0xb48ef5528561b241!8m2!3d42.08661!4d-71.6097033!16s%2Fg%2F1tql5s_m?entry=tts&g_ep=EgoyMDI1MDMxMi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "pratt-pond",
+    "name": "Pratt Pond",
+    "town": "Upton",
+    "latitude": 42.180414,
+    "longitude": -71.603072,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B010'49.5%22N+71%C2%B036'11.1%22W/@42.17604,-71.6149527,14.75z/data=!4m4!3m3!8m2!3d42.1804145!4d-71.6030721?entry=ttu"
+  },
+  {
+    "id": "prindle-lake",
+    "name": "Prindle Lake",
+    "town": "Charlton",
+    "latitude": 42.114586,
+    "longitude": -71.993708,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.114586,+-71.993708?entry=tts&g_ep=EgoyMDI1MDMxMi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "prospect-hill-pond",
+    "name": "Prospect Hill Pond",
+    "town": "Taunton",
+    "latitude": 41.930104,
+    "longitude": -71.095372,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.930104,+-71.095372?entry=tts"
+  },
+  {
+    "id": "puffers-pond",
+    "name": "Puffers (Factory Hollow) Pond",
+    "town": "Amherst",
+    "latitude": 42.416136,
+    "longitude": -72.517231,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Puffer's+Pond+Swimming+Area/@42.4153571,-72.5179787,17.5z/data=!4m12!1m5!3m4!2zNDLCsDI0JzU4LjEiTiA3MsKwMzEnMDIuMCJX!8m2!3d42.4161361!4d-72.5172306!3m5!1s0x89e6cd616c0d64a7:0x13a0a3d8103919d5!8m2!3d42.4161386!4d-72.5166005!16s%2Fg%2F1v16rb1s?entry=ttu"
+  },
+  {
+    "id": "putnamville-reservoir",
+    "name": "Putnamville Reservoir",
+    "town": "Danvers",
+    "latitude": 42.602733,
+    "longitude": -70.938454,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B036'09.8%22N+70%C2%B056'18.4%22W/@42.6027234,-70.9383506,15z/data=!4m4!3m3!8m2!3d42.602733!4d-70.938454?entry=ttu"
+  },
+  {
+    "id": "quabbin-reservoir",
+    "name": "Quabbin Reservoir",
+    "town": "multiple",
+    "latitude": 42.332865,
+    "longitude": -72.367749,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Quabbin+Reservoir+Fishing+Area+1/@42.3369509,-72.3726711,2033m/data=!3m1!1e3!4m6!3m5!1s0x89e6c98596aafc4f:0x7c028ec7fb62e969!8m2!3d42.3328648!4d-72.3677494!16s%2Fg%2F119w03nd_?entry=tts&g_ep=EgoyMDI0MDkwOS4wKgBIAVAD"
+  },
+  {
+    "id": "quaboag-pond",
+    "name": "Quaboag Pond",
+    "town": "Brookfield",
+    "latitude": 42.203657,
+    "longitude": -72.062803,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Quaboag+Pond+State+Boat+Ramp/@42.2038127,-72.0626823,357m/data=!3m1!1e3!4m6!3m5!1s0x89e6a5ee3e7cb8db:0x40a2916392899f0d!8m2!3d42.2036565!4d-72.0628033!16s%2Fg%2F11g8_5d2l6?entry=tts"
+  },
+  {
+    "id": "lake-quacumquasit-south-pond",
+    "name": "Quacumquasit (South) Pond",
+    "town": "East Brookfield/Sturbridge",
+    "latitude": 42.180973,
+    "longitude": -72.073003,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B010'51.5%22N+72%C2%B004'22.8%22W/@42.1809887,-72.0832816,15z/data=!3m1!4b1!4m4!3m3!8m2!3d42.1809733!4d-72.0730033?entry=ttu"
+  },
+  {
+    "id": "queen-sewell-pond",
+    "name": "Queen Sewell Pond",
+    "town": "Bourne",
+    "latitude": 41.754274,
+    "longitude": -70.603728,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.754274,+-70.603728?entry=tts"
+  },
+  {
+    "id": "red-bridge-pond",
+    "name": "Red Bridge Impoundment (Chicopee River)",
+    "town": "Ludlow/Wilbraham",
+    "latitude": 42.17718,
+    "longitude": -72.407845,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Red+Bridge+Boat+Ramp/@42.1763661,-72.4088407,18z/data=!4m12!1m5!3m4!2zNDLCsDEwJzM3LjkiTiA3MsKwMjQnMjguMiJX!8m2!3d42.1771796!4d-72.4078449!3m5!1s0x89e6c141607edc55:0xb46060c96ab57be3!8m2!3d42.1769137!4d-72.4079805!16s%2Fg%2F11b7xvbqwy?entry=ttu"
+  },
+  {
+    "id": "riceville-pond-athol",
+    "name": "Riceville Pond",
+    "town": "Petersham",
+    "latitude": 42.531313,
+    "longitude": -72.224692,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.531313,+-72.224692?entry=tts&g_ep=EgoyMDI1MDgyNC4wIPu8ASoASAFQAw%3D%3D&skid=7b1ef46d-3a23-4663-8d30-e88b83ca6b3e"
+  },
+  {
+    "id": "richards-reservoir",
+    "name": "Richards Reservoir",
+    "town": "Warwick",
+    "latitude": 42.698466,
+    "longitude": -72.318944,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.698466,+-72.318944?entry=tts&g_ep=EgoyMDI1MDUwNS4wIPu8ASoASAFQAw%3D%3D&skid=4362facc-9f78-4750-840a-cd37ef8b07e9"
+  },
+  {
+    "id": "richmond-pond",
+    "name": "Richmond Pond",
+    "town": "Richmond",
+    "latitude": 42.415861,
+    "longitude": -73.331558,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Richmond+Pond+Boat+Ramp/@42.4157983,-73.3326692,18.5z/data=!4m12!1m5!3m4!2zNDLCsDI0JzU3LjEiTiA3M8KwMTknNTMuNiJX!8m2!3d42.4158611!4d-73.3315583!3m5!1s0x89e7514ac5ec0eb3:0x3ce91792f3fbd606!8m2!3d42.4157229!4d-73.3318617!16s%2Fg%2F11gmchc48f?entry=ttu"
+  },
+  {
+    "id": "rico-lake",
+    "name": "Rico Lake",
+    "town": "Tauton",
+    "latitude": 41.880972,
+    "longitude": -71.000238,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Lake+Rico/@41.880933,-71.0001903,98m/data=!3m1!1e3!4m6!3m5!1s0x89e4edb53e8165e1:0xe4293ca39302893e!8m2!3d41.8809715!4d-71.0002378!16s%2Fg%2F11pbtxnw64?entry=tts&g_ep=EgoyMDI1MDMxMi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "robbins-pond",
+    "name": "Robbins Pond",
+    "town": "East Bridgewater",
+    "latitude": 42.009028,
+    "longitude": -70.907504,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B000'32.5%22N+70%C2%B054'27.0%22W/@42.009479,-70.9087795,17.75z/data=!4m4!3m3!8m2!3d42.009028!4d-70.9075042?entry=ttu"
+  },
+  {
+    "id": "robbins-pond-harvard",
+    "name": "Robbins Pond",
+    "town": "Harvard",
+    "latitude": 42.538957,
+    "longitude": -71.605242,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.538957,+-71.605242?entry=tts&g_ep=EgoyMDI1MDMxMS4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "rock-pond",
+    "name": "Rock Pond",
+    "town": "Georgetown",
+    "latitude": 42.731638,
+    "longitude": -71.007075,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Rock+Pond/@42.7317693,-71.0076085,136m/data=!3m1!1e3!4m6!3m5!1s0x89e303520988ed85:0x53cc67899e18e92a!8m2!3d42.7316377!4d-71.0070748!16s%2Fg%2F11gbf9lj0d?coh=219816&entry=tts&g_ep=EgoyMDI0MDcyOS4xKgBIAVAD"
+  },
+  {
+    "id": "rocky-pond",
+    "name": "Rocky Pond",
+    "town": "Boylston",
+    "latitude": 42.344717,
+    "longitude": -71.692619,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Rocky+Pond/@42.3445541,-71.6928386,19.5z/data=!4m12!1m5!3m4!2zNDLCsDIwJzQxLjAiTiA3McKwNDEnMzMuNCJX!8m2!3d42.344717!4d-71.692619!3m5!1s0x89e3f721e6d0adb7:0x897863a62d454a67!8m2!3d42.344655!4d-71.6925395!16s%2Fg%2F11j03zrhst?entry=ttu"
+  },
+  {
+    "id": "round-meadow-pond",
+    "name": "Round Meadow Pond",
+    "town": "Westminster",
+    "latitude": 42.548201,
+    "longitude": -71.8931,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.548201,+-71.893100?entry=tts&g_ep=EgoyMDI1MDMxMS4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "russell-and-sawmill-ponds-plymouth",
+    "name": "Russell And Sawmill Ponds",
+    "town": "Plymouth",
+    "latitude": 41.974696,
+    "longitude": -70.692011,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.974696,+-70.692011?entry=tts"
+  },
+  {
+    "id": "russell-pond-russell",
+    "name": "Russell Pond",
+    "town": "Russell",
+    "latitude": 42.157562,
+    "longitude": -72.861951,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/dir//Russell+Town+Beach-resident+only,+Birch+Hill+Rd,+Russell,+MA+01071/@42.1575617,-72.8619506,472m/data=!3m1!1e3!4m9!4m8!1m0!1m5!1m1!1s0x89e7196dfef0fbbf:0x6a79dd2b858e7c29!2m2!1d-72.8610683!2d42.1569974!3e0?entry=ttu"
+  },
+  {
+    "id": "sampson-pond",
+    "name": "Sampson Pond",
+    "town": "Carver",
+    "latitude": 41.844828,
+    "longitude": -70.750742,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/41%C2%B050'40.4%22N+70%C2%B045'00.9%22W/@41.8448152,-70.7526327,447m/data=!3m1!1e3!4m10!1m5!3m4!2zNDHCsDUwJzQxLjQiTiA3MMKwNDUnMDIuNyJX!8m2!3d41.844828!4d-70.750742!3m3!8m2!3d41.844543!4d-70.750246?entry=ttu"
+  },
+  {
+    "id": "santuit-pond",
+    "name": "Santuit Pond",
+    "town": "Mashpee",
+    "latitude": 41.660692,
+    "longitude": -70.492325,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/dir//41.6571417,-70.4637056/@41.6606921,-70.4923253,13.5z/data=!4m2!4m1!3e0?entry=ttu"
+  },
+  {
+    "id": "scargo-lake",
+    "name": "Scargo Lake",
+    "town": "Dennis",
+    "latitude": 41.744244,
+    "longitude": -70.184814,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Scargo+Lake+Landing+Ramp/@41.7443357,-70.1852292,317m/data=!3m1!1e3!4m6!3m5!1s0x89fb47e1f22d4d49:0x702613927db2c6ff!8m2!3d41.7442436!4d-70.1848144!16s%2Fg%2F11gwkc4wys?entry=tts"
+  },
+  {
+    "id": "schoolhouse-pond-chatham",
+    "name": "Schoolhouse Pond",
+    "town": "Chatham",
+    "latitude": 41.694744,
+    "longitude": -70.002916,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/dir//41.6944516,-69.9994703/@41.6947444,-70.0029159,16.5z/data=!4m2!4m1!3e0?entry=ttu"
+  },
+  {
+    "id": "seymour-pond",
+    "name": "Seymour Pond",
+    "town": "Brewster",
+    "latitude": 41.72487,
+    "longitude": -70.085613,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.724870,+-70.085613?entry=tts"
+  },
+  {
+    "id": "shaw-pond",
+    "name": "Shaw Pond",
+    "town": "Beckett",
+    "latitude": 42.253437,
+    "longitude": -73.137733,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/dir//42.2515796,-73.1252748/@42.2534367,-73.1377334,14.25z/data=!4m2!4m1!3e0?entry=ttu"
+  },
+  {
+    "id": "sheep-pond",
+    "name": "Sheep Pond",
+    "town": "Brewster",
+    "latitude": 41.733246,
+    "longitude": -70.079458,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Sheep+Pond/@41.733282,-70.0797171,94m/data=!3m1!1e3!4m6!3m5!1s0x89fb418b3610f1cb:0x5b3b0e087d6acbd1!8m2!3d41.7332464!4d-70.0794582!16s%2Fg%2F11f6yx9sr9?entry=tts"
+  },
+  {
+    "id": "sheomet-lake",
+    "name": "Sheomet Lake",
+    "town": "Warwick",
+    "latitude": 42.67496,
+    "longitude": -72.278299,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.674960,+-72.278299?entry=tts"
+  },
+  {
+    "id": "sherman-pond",
+    "name": "Sherman Pond",
+    "town": "Brimfield",
+    "latitude": 42.132912,
+    "longitude": -72.195635,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/dir//42.1315447,-72.1921235/@42.1329123,-72.1956353,15.96z/data=!4m2!4m1!3e0?entry=ttu"
+  },
+  {
+    "id": "shubael-pond",
+    "name": "Shubael Pond",
+    "town": "Barnstable",
+    "latitude": 41.674439,
+    "longitude": -70.395013,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.674439,+-70.395013?entry=tts"
+  },
+  {
+    "id": "silver-lake-athol",
+    "name": "Silver Lake",
+    "town": "Athol",
+    "latitude": 42.600067,
+    "longitude": -72.227841,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.600067,+-72.227841?entry=tts&g_ep=EgoyMDI1MDMxMi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "silver-lake-grafton",
+    "name": "Silver Lake",
+    "town": "Grafton",
+    "latitude": 42.192168,
+    "longitude": -71.656402,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.192168,+-71.656402?entry=tts&g_ep=EgoyMDI1MDMxMS4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "singletary-pond",
+    "name": "Singletary Pond",
+    "town": "Sutton",
+    "latitude": 42.16985,
+    "longitude": -71.78301,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Lake+Singletary+Boat+Ramp/@42.1694596,-71.7839882,449m/data=!3m1!1e3!4m6!3m5!1s0x89e4054b1df2ac25:0x9230c415790fdb57!8m2!3d42.1698503!4d-71.7830102!16s%2Fg%2F1tgcn98w?entry=ttu&g_ep=EgoyMDI1MDEwMi4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "id": "sluice-pond",
+    "name": "Sluice Pond",
+    "town": "Lynn",
+    "latitude": 42.492526,
+    "longitude": -70.971252,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Sluice+pond+launch/@42.4923454,-70.9709845,347m/data=!3m1!1e3!4m6!3m5!1s0x89e31313d14a5bdb:0xc618ac8e73a94071!8m2!3d42.4925264!4d-70.9712519!16s%2Fg%2F11s232kx8r?coh=219816&entry=tts&g_ep=EgoyMDI0MDgwNS4wKgBIAVAD"
+  },
+  {
+    "id": "snake-pond",
+    "name": "Snake Pond",
+    "town": "Sandwich",
+    "latitude": 41.679955,
+    "longitude": -70.521634,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.679955,+-70.521634?entry=tts"
+  },
+  {
+    "id": "snipatuit-pond",
+    "name": "Snipatuit Pond",
+    "town": "Rochester",
+    "latitude": 41.780694,
+    "longitude": -70.876055,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/dir//41.7854401,-70.8585109/@41.7806936,-70.8760547,14z/data=!4m2!4m1!3e0?entry=ttu"
+  },
+  {
+    "id": "south-meadow-and-mossy-ponds",
+    "name": "South Meadow And Mossy Ponds",
+    "town": "Clinton",
+    "latitude": 42.413547,
+    "longitude": -71.71493,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/dir//42.4144398,-71.7101869/@42.4135469,-71.7149305,16z/data=!4m2!4m1!3e0?entry=ttu"
+  },
+  {
+    "id": "south-pond",
+    "name": "South Pond",
+    "town": "Savoy",
+    "latitude": 42.648314,
+    "longitude": -73.047058,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.648314,+-73.047058?entry=tts"
+  },
+  {
+    "id": "south-watuppa-pond",
+    "name": "South Watuppa Pond",
+    "town": "Fall River",
+    "latitude": 41.672362,
+    "longitude": -71.148308,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/dir//Fall+River+Boat+Ramp/@41.6723616,-71.1483079,14z/data=!4m9!4m8!1m0!1m5!1m1!1s0x89e4ff1391a2c165:0xae8f6a95195d2b3f!2m2!1d-71.1397935!2d41.6742632!3e0?entry=ttu"
+  },
+  {
+    "id": "spectacle-pond-lancaster",
+    "name": "Spectacle Pond",
+    "town": "Lancaster",
+    "latitude": 42.515453,
+    "longitude": -71.68713,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/dir//Lancaster+Recreation+Beach/@42.5154535,-71.6871301,15.5z/data=!4m9!4m8!1m0!1m5!1m1!1s0x89e3f21b7f3ec961:0x5a159bcd19042523!2m2!1d-71.681635!2d42.5167981!3e0?entry=ttu"
+  },
+  {
+    "id": "spectacle-pond-sandwich",
+    "name": "Spectacle Pond",
+    "town": "Sandwich",
+    "latitude": 41.698844,
+    "longitude": -70.463997,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.698844,+-70.463997?entry=tts"
+  },
+  {
+    "id": "spectacle-pond-wilbraham",
+    "name": "Spectacle Pond",
+    "town": "Wilbraham",
+    "latitude": 42.151282,
+    "longitude": -72.43879,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Spectacle+Pond+Recreation+Area/@42.1509,-72.4390681,233m/data=!3m1!1e3!4m6!3m5!1s0x89e6c23a60949a95:0xca31eaf3d30bf84d!8m2!3d42.1512815!4d-72.4387897!16s%2Fg%2F1tgp1v4g?entry=tts&g_ep=EgoyMDI1MDMxMi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "spot-pond",
+    "name": "Spot Pond",
+    "town": "Stoneham",
+    "latitude": 42.455526,
+    "longitude": -71.091377,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Boating+in+Boston+at+Spot+Pond/@42.4555581,-71.0921277,18z/data=!4m6!3m5!1s0x89e3738c7f38444b:0xaa2e7972b95a47e9!8m2!3d42.4555256!4d-71.0913768!16s%2Fg%2F124y9_1b6?entry=tts"
+  },
+  {
+    "id": "spy-pond",
+    "name": "Spy Pond",
+    "town": "Arlington",
+    "latitude": 42.411155,
+    "longitude": -71.150999,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Spy+Pond+Boat+Launch/@42.4110551,-71.1515316,108m/data=!3m1!1e3!4m6!3m5!1s0x89e37651547c1cdb:0xe1713d2202fd7fb4!8m2!3d42.4111551!4d-71.1509988!16s%2Fg%2F11c4bdf23h?entry=tts&g_ep=EgoyMDI0MDYxNS4wKgBIAVAD"
+  },
+  {
+    "id": "stearns-pond",
+    "name": "Stearns Pond",
+    "town": "North Andover",
+    "latitude": 42.619098,
+    "longitude": -71.072455,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B037'08.8%22N+71%C2%B004'20.8%22W/@42.6190984,-71.0750303,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.6190984!4d-71.0724554?entry=ttu"
+  },
+  {
+    "id": "stetson-pond",
+    "name": "Stetson Pond",
+    "town": "Pembroke",
+    "latitude": 42.024603,
+    "longitude": -70.829987,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Stetson+Pond+Beach/@42.0246958,-70.8301822,185m/data=!3m1!1e3!4m6!3m5!1s0x89e4981380a35039:0x77e01dac1858e2c7!8m2!3d42.0246025!4d-70.829987!16s%2Fg%2F11hcdy46k7?entry=tts&g_ep=EgoyMDI0MDUxMi4wKgBIAVAD"
+  },
+  {
+    "id": "stiles-pond",
+    "name": "Stiles Pond",
+    "town": "Boxford",
+    "latitude": 42.685578,
+    "longitude": -71.042836,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Stiles+Pond+Town+Land,+10+Stiles+Pond+Rd,+Boxford,+MA+01921/@42.6852734,-71.0426693,182m/data=!3m1!1e3!4m6!3m5!1s0x89e305040eea684d:0x22952b26f5f2f0af!8m2!3d42.6855775!4d-71.0428356!16s%2Fg%2F11ljyk_bby?entry=tts&g_ep=EgoyMDI0MDUxMi4wKgBIAVAD"
+  },
+  {
+    "id": "stockbridge-bowl",
+    "name": "Stockbridge Bowl",
+    "town": "Stockbridge",
+    "latitude": 42.341851,
+    "longitude": -73.324239,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Stockbridge+Bowl+Boat+Ramp/@42.3416491,-73.3233375,224m/data=!3m1!1e3!4m6!3m5!1s0x89e75b82a4598223:0x5486374540d77115!8m2!3d42.3418513!4d-73.3242392!16s%2Fg%2F11dfpkkb41?entry=tts&g_ep=EgoyMDI0MDUxMi4wKgBIAVAD"
+  },
+  {
+    "id": "sudbury-reservoir",
+    "name": "Sudbury Reservoir",
+    "town": "Southborough",
+    "latitude": 42.327399,
+    "longitude": -71.530141,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.327399,+-71.530141?entry=tts&g_ep=EgoyMDI0MDUwOC4wKgBIAVAD"
+  },
+  {
+    "id": "sugden-reservoir",
+    "name": "Sugden Reservoir",
+    "town": "Spencer",
+    "latitude": 42.273442,
+    "longitude": -71.961616,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Sugden+Reservoir+Boat+Ramp/@42.2723054,-71.9652817,688m/data=!3m1!1e3!4m6!3m5!1s0x89e6a99e4270e8b3:0x32ec2f9a69c07358!8m2!3d42.273442!4d-71.9616158!16s%2Fg%2F11m8mkf7k6?entry=tts&g_ep=EgoyMDI0MDUwOC4wKgBIAVAD"
+  },
+  {
+    "id": "the-quag",
+    "name": "The Quag",
+    "town": "Sterling",
+    "latitude": 42.411668,
+    "longitude": -71.768229,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Central+MA+Rail+Trail+(Sterling)/@42.4118096,-71.7678506,164m/data=!3m1!1e3!4m6!3m5!1s0x89e3fb1f884de8b7:0x4e3fd3fc93cfc09f!8m2!3d42.4116682!4d-71.7682293!16s%2Fg%2F11gy4tqx98?entry=tts&g_ep=EgoyMDI1MDMxMC4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "thousand-acre-pond",
+    "name": "Thousand Acre Lake",
+    "town": "New Marlborough",
+    "latitude": 42.070457,
+    "longitude": -73.211232,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.070457,+-73.211232?entry=tts&g_ep=EgoyMDI0MDUwOC4wKgBIAVAD"
+  },
+  {
+    "id": "tispaquin-pond",
+    "name": "Tispaquin Pond",
+    "town": "Middleborough",
+    "latitude": 41.855963,
+    "longitude": -70.854189,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.855963,+-70.854189?entry=tts&g_ep=EgoyMDI0MDYxNS4wKgBIAVAD"
+  },
+  {
+    "id": "tully-lake",
+    "name": "Tully Lake",
+    "town": "Royalston",
+    "latitude": 42.645857,
+    "longitude": -72.223672,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Tully+Lake+Boat+Ramp/@42.645031,-72.2222166,627m/data=!3m1!1e3!4m6!3m5!1s0x89e1435d2ef0c707:0x171e57978a56ea4f!8m2!3d42.6458573!4d-72.2236724!16s%2Fg%2F11h6psz14f?entry=tts&g_ep=EgoyMDI0MDUwOC4wKgBIAVAD"
+  },
+  {
+    "id": "turner-pond-walpole",
+    "name": "Turner Pond",
+    "town": "Walpole",
+    "latitude": 42.151178,
+    "longitude": -71.266439,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.151178,+-71.266439?entry=tts&g_ep=EgoyMDI1MDMxMi4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "turner-pond-new-bedford",
+    "name": "Turner Pond (New Bedford)",
+    "town": "New Bedford",
+    "latitude": 41.683648,
+    "longitude": -70.97441,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.683648,+-70.974410?entry=tts&g_ep=EgoyMDI0MDUwNy4xKgBIAVAD"
+  },
+  {
+    "id": "upper-artichoke-reservoir",
+    "name": "Upper Artichoke Reservior",
+    "town": "West Newbury",
+    "latitude": 42.798404,
+    "longitude": -70.926751,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.798404,+-70.926751?entry=tts&g_ep=EgoyMDI0MTIwNC4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "upper-highland-lake",
+    "name": "Upper Highland Lake",
+    "town": "Goshen",
+    "latitude": 42.456636,
+    "longitude": -72.79943,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.456636,+-72.799430?entry=tts&g_ep=EgoyMDI0MTIwNC4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "upper-mill-pond",
+    "name": "Upper Mill Pond",
+    "town": "Brewster",
+    "latitude": 41.731087,
+    "longitude": -70.109775,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Upper+Mill+Pond/@41.7309699,-70.1102249,134m/data=!3m1!1e3!4m6!3m5!1s0x89fb40832d5dd24b:0x98fedfffb5ab10b7!8m2!3d41.7310872!4d-70.1097748!16s%2Fg%2F11b8_g603d?entry=tts&g_ep=EgoyMDI0MDUwNy4xKgBIAVAD"
+  },
+  {
+    "id": "upper-mystic-lake",
+    "name": "Upper Mystic Lake",
+    "town": "Arlington/Medford/Winchester",
+    "latitude": 42.431192,
+    "longitude": -71.147508,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.431192,+-71.147508?entry=tts&g_ep=EgoyMDI1MDYzMC4wIPu8ASoASAFQAw%3D%3D&skid=6cc14a2f-5763-4261-8f15-fcb42e1cdb55"
+  },
+  {
+    "id": "upper-spectacle-pond",
+    "name": "Upper Spectacle Pond",
+    "town": "Sandisfield",
+    "latitude": 42.177114,
+    "longitude": -73.117598,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.177114,+-73.117598?entry=tts&g_ep=EgoyMDI0MDUwNy4xKgBIAVAD"
+  },
+  {
+    "id": "wachusett-reservoir",
+    "name": "Wachusett Reservoir",
+    "town": "West boylston",
+    "latitude": 42.369897,
+    "longitude": -71.781788,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Gate+25+Mass+DCR+Wachusett+Reservoir+Parking/@42.3698892,-71.7814049,103m/data=!3m1!1e3!4m6!3m5!1s0x89e3f9e8e93ed757:0x17248e6d9f9842d3!8m2!3d42.3698968!4d-71.7817876!16s%2Fg%2F11h6l67939?entry=tts&g_ep=EgoyMDI0MDgyOC4wKgBIAVAD"
+  },
+  {
+    "id": "walden-pond",
+    "name": "Walden Pond",
+    "town": "Concord",
+    "latitude": 42.43763,
+    "longitude": -71.335312,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Walden+Pond+Access/@42.4377,-71.3355525,112m/data=!3m1!1e3!4m6!3m5!1s0x89e39a5551578faf:0x6b11a02ee28b010d!8m2!3d42.4376301!4d-71.3353115!16s%2Fg%2F11c1ptf3dg?entry=tts"
+  },
+  {
+    "id": "walker-pond-sturbridge",
+    "name": "Walker Pond",
+    "town": "Sturbridge",
+    "latitude": 42.145928,
+    "longitude": -72.057019,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Walker+Pond+Boat+Ramp/@42.1444596,-72.062908,903m/data=!3m1!1e3!4m6!3m5!1s0x89e6a526be338f97:0xd52c44bc4d6e9e97!8m2!3d42.1459276!4d-72.0570187!16s%2Fg%2F11lgx2df65?entry=tts"
+  },
+  {
+    "id": "walkers-pond-brewster",
+    "name": "Walkers Pond",
+    "town": "Brewster",
+    "latitude": 41.72017,
+    "longitude": -70.132008,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Walkers+Pond+Landing/@41.7199937,-70.1323066,135m/data=!3m1!1e3!4m6!3m5!1s0x89fb3f9b416ea9e5:0x296c1f2c92139753!8m2!3d41.7201697!4d-70.1320082!16s%2Fg%2F11r9vlwqpm?entry=tts"
+  },
+  {
+    "id": "wallum-lake",
+    "name": "Wallum Lake",
+    "town": "Douglas",
+    "latitude": 42.02193,
+    "longitude": -71.767993,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Wallum+Lake+State+Boat+Launch/@42.0218468,-71.7693446,226m/data=!3m1!1e3!4m6!3m5!1s0x89e419eb8c6839a9:0x58ab502b52743006!8m2!3d42.0219299!4d-71.767993!16s%2Fg%2F11gmd6jnwq?entry=tts"
+  },
+  {
+    "id": "wampatuck-pond",
+    "name": "Wampatuck Pond",
+    "town": "Hanson",
+    "latitude": 42.064485,
+    "longitude": -70.86741,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/42%C2%B003'52.2%22N+70%C2%B052'02.7%22W/@42.0646441,-70.869835,17z/data=!4m4!3m3!8m2!3d42.0644848!4d-70.8674103?entry=ttu"
+  },
+  {
+    "id": "watershops-pond",
+    "name": "Watershops Pond",
+    "town": "Springfield",
+    "latitude": 42.107775,
+    "longitude": -72.543572,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.107775,+-72.543572?entry=tts"
+  },
+  {
+    "id": "watson-pond",
+    "name": "Watson Pond",
+    "town": "Tauton",
+    "latitude": 41.950143,
+    "longitude": -71.114029,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Watson+Pond+State+Park/@41.9497594,-71.113544,194m/data=!3m1!1e3!4m6!3m5!1s0x89e48b9a249507b9:0x5e0a3d12af7c8ed8!8m2!3d41.950143!4d-71.114029!16zL20vMDduemJk?entry=tts&g_ep=EgoyMDI0MTIxMS4wIPu8ASoASAFQAw%3D%3D"
+  },
+  {
+    "id": "webster-lake",
+    "name": "Webster Lake",
+    "town": "Webster",
+    "latitude": 42.02765,
+    "longitude": -71.826032,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Webster+Lake+Boat+Ramp/@42.0278591,-71.8267068,134m/data=!3m1!1e3!4m6!3m5!1s0x89e419ca3f347c2b:0x56e9fd2f44c5e85b!8m2!3d42.02765!4d-71.826032!16s%2Fg%2F11svfjt9hq?entry=tts"
+  },
+  {
+    "id": "wedge-pond",
+    "name": "Wedge Pond",
+    "town": "Winchester",
+    "latitude": 42.456395,
+    "longitude": -71.138724,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Elliot+Park,+Woburn,+MA+01801/@42.4563136,-71.1390342,378m/data=!3m1!1e3!4m6!3m5!1s0x89e37434001eaf2d:0x3a655ebdbc647f1f!8m2!3d42.4563952!4d-71.1387244!16s%2Fg%2F11bvtl6c72?entry=tts"
+  },
+  {
+    "id": "wequaquet-lake",
+    "name": "Wequaquet Lake",
+    "town": "Barnstable",
+    "latitude": 41.67992,
+    "longitude": -70.348427,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Wequaquet+Lake+Boat+Ramp/@41.6794409,-70.3490977,227m/data=!3m1!1e3!4m6!3m5!1s0x89fb33e8ad7ffe83:0x94ed79ade5178a5e!8m2!3d41.6799201!4d-70.3484268!16s%2Fg%2F11b6_bbzsh?entry=tts"
+  },
+  {
+    "id": "west-lake",
+    "name": "West Lake",
+    "town": "Sandisfield",
+    "latitude": 42.129175,
+    "longitude": -73.162033,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.129175,+-73.162033?entry=tts"
+  },
+  {
+    "id": "west-monponsett-pond",
+    "name": "West Monponsett Pond",
+    "town": "Halifax",
+    "latitude": 42.006423,
+    "longitude": -70.840989,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/West+Monponsett+Boat+Ramp/@42.0066405,-70.8422902,190m/data=!3m1!1e3!4m6!3m5!1s0x89e4974907ff0017:0x93e255c9376b4adc!8m2!3d42.0064232!4d-70.8409893!16s%2Fg%2F11mwzmqwch?entry=tts"
+  },
+  {
+    "id": "west-waushacum-pond",
+    "name": "West Waushacum Pond",
+    "town": "Sterling",
+    "latitude": 42.410474,
+    "longitude": -71.765768,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Wauschacum+Pond+Canoe+%26+Kayak+Access/@42.410636,-71.7665124,275m/data=!3m1!1e3!4m6!3m5!1s0x89e3fb9a3f5c1145:0xf5e53401e6b2731!8m2!3d42.4104735!4d-71.7657681!16s%2Fg%2F11h2jxj4yx?entry=tts"
+  },
+  {
+    "id": "westfield-montgomery-reservoir",
+    "name": "Westfield (Montgomery) Reservoir",
+    "town": "Montgomery",
+    "latitude": 42.194716,
+    "longitude": -72.803184,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.194716,+-72.803184?coh=245189&entry=tts&g_ep=EgoyMDI1MDMwNC4wIPu8ASoJLDEwMjExNDU1SAFQAw%3D%3D"
+  },
+  {
+    "id": "whalom-lake",
+    "name": "Whalom Lake",
+    "town": "Lunenburg",
+    "latitude": 42.572562,
+    "longitude": -71.744492,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.572562,+-71.744492?entry=tts"
+  },
+  {
+    "id": "white-island-pond",
+    "name": "White Island Pond",
+    "town": "Plymouth",
+    "latitude": 41.801951,
+    "longitude": -70.63334,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/41.801951,+-70.633340?entry=tts"
+  },
+  {
+    "id": "white-pond-concord",
+    "name": "White Pond",
+    "town": "Concord",
+    "latitude": 42.429589,
+    "longitude": -71.385724,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.429589,+-71.385724?entry=tts&g_ep=EgoyMDI0MDcxMC4wKgBIAVAD"
+  },
+  {
+    "id": "whitehall-pond",
+    "name": "Whitehall Pond",
+    "town": "Rutland",
+    "latitude": 42.37013,
+    "longitude": -71.997864,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Whitehall+Pond+Kayak+and+Canoe+Launch/@42.3704942,-71.9971398,450m/data=!3m1!1e3!4m6!3m5!1s0x89e1554a36e4bb63:0x903d5e27d7340c1a!8m2!3d42.3701302!4d-71.9978641!16s%2Fg%2F11rchrz386?entry=tts"
+  },
+  {
+    "id": "whitehall-reservoir",
+    "name": "Whitehall Reservoir",
+    "town": "Hopkinton",
+    "latitude": 42.240954,
+    "longitude": -71.57234,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Whitehall+Boat+Launch/@42.2411288,-71.5734447,268m/data=!3m1!1e3!4m6!3m5!1s0x89e40b2d2a2e45e3:0xb0933e40c3c1de65!8m2!3d42.240954!4d-71.5723402!16s%2Fg%2F11c3q4xpr2?entry=tts"
+  },
+  {
+    "id": "whitin-reservoir",
+    "name": "Whitin Reservoir",
+    "town": "Douglas",
+    "latitude": 42.069878,
+    "longitude": -71.775251,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Douglas+State+Forest/@42.0704657,-71.7749222,18z/data=!4m6!3m5!1s0x89e419d2e78cd417:0x213e580841197232!8m2!3d42.069878!4d-71.7752507!16s%2Fg%2F11r6vhs2n1?entry=tts&g_ep=EgoyMDI0MDYwNS4wKgBIAVAD"
+  },
+  {
+    "id": "whitney-pond-winchendon",
+    "name": "Whitney Pond",
+    "town": "Winchendon",
+    "latitude": 42.678454,
+    "longitude": -72.032683,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/North+Central+Pathway/@42.6784543,-72.0330043,84m/data=!3m1!1e3!4m6!3m5!1s0x89e161bdbc7059eb:0xa619423857e93051!8m2!3d42.6784542!4d-72.0326825!16s%2Fg%2F11gy45663q?entry=tts&g_ep=EgoyMDI0MDgyOC4wKgBIAVAD"
+  },
+  {
+    "id": "wickaboag-pond",
+    "name": "Wickaboag Pond",
+    "town": "West Brookfield",
+    "latitude": 42.238246,
+    "longitude": -72.14823,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.238246,+-72.148230?entry=tts"
+  },
+  {
+    "id": "windsor-lake",
+    "name": "Windsor Lake",
+    "town": "North Adams",
+    "latitude": 42.689028,
+    "longitude": -73.095481,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.689028,+-73.095481?entry=tts"
+  },
+  {
+    "id": "windsor-pond",
+    "name": "Windsor Pond",
+    "town": "Windsor",
+    "latitude": 42.537631,
+    "longitude": -72.975654,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.537631,+-72.975654?entry=tts"
+  },
+  {
+    "id": "winnecunnet-pond",
+    "name": "Winnecunnet Pond",
+    "town": "Norton",
+    "latitude": 41.967321,
+    "longitude": -71.125916,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/Boat+Ramp+For+Winnacunett+Pond/@41.9675629,-71.1259227,316m/data=!3m1!1e3!4m6!3m5!1s0x89e48bc143c75b3f:0x881e886fb03f41dd!8m2!3d41.9673214!4d-71.1259158!16s%2Fg%2F11g8vplrlm?entry=tts"
+  },
+  {
+    "id": "woodman-pond",
+    "name": "Woodman Pond",
+    "town": "Brimfield",
+    "latitude": 42.095034,
+    "longitude": -72.247202,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.095034,+-72.247202?entry=tts"
+  },
+  {
+    "id": "yokum-pond",
+    "name": "Yokum Pond",
+    "town": "Becket",
+    "latitude": 42.307928,
+    "longitude": -73.124985,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/search/42.307928,+-73.124985?entry=tts&g_ep=EgoyMDI0MDUxNC4wKgBIAVAD"
+  },
+  {
+    "id": "york-lake",
+    "name": "York Lake",
+    "town": "New Marlborough",
+    "latitude": 42.095638,
+    "longitude": -73.179913,
+    "coordinateSource": "Mass.gov map link",
+    "coordinateSourceUrl": "https://www.google.com/maps/place/York+Lake+Loop+Trailhead/@42.0954725,-73.1810106,133m/data=!3m1!1e3!4m6!3m5!1s0x89e76de75129d57d:0x4801dad316c41763!8m2!3d42.0956382!4d-73.1799127!16s%2Fg%2F11j7hj4f12?entry=tts"
+  }
+]

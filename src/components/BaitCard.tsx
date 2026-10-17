@@ -1,5 +1,3 @@
-
-import "../App.css";
 export interface Card {
   baitName: string;
   suitabilityRating: "High" | "Medium" | "Low";
@@ -7,29 +5,15 @@ export interface Card {
 }
 
 function BaitCard({ baitName, suitabilityRating, technique }: Card) {
-  let color = "";
-  if(suitabilityRating==="High")
-  {
-      color = "green";
-  }
-  else if(suitabilityRating==="Medium")
-  {
-      color = "yellow";
-  }
-  else if(suitabilityRating==="Low")
-  {
-      color = "gray";
-  }
+  const ratingClass = suitabilityRating.toLowerCase();
   return (
-    <div className = "bait-card"> 
-        <div className = "card-header">
-            <h3> {baitName}</h3>
-            <span style = {{color}}> {suitabilityRating} </span>
-        </div>
-        <p>
-            {technique}
-        </p>
-    </div>
+    <article className="bait-card">
+      <div className="card-header">
+        <h4>{baitName}</h4>
+        <span className={`rating-pill rating-${ratingClass}`}>{suitabilityRating}</span>
+      </div>
+      <p>{technique}</p>
+    </article>
   );
 }
 

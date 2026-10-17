@@ -1,109 +1,85 @@
-
 import { useState } from "react";
 import "./App.css";
-
 import FishingMap from "./components/FishingMap";
 import PondDetails from "./components/PondDetails";
-import { ponds } from "./data/ponds";
+import { ponds } from "../data/ponds";
 import type { Pond } from "./types/fishing";
 
+function matchesFilters(pond: Pond, species: string, query: string): boolean {
+  return (
+    (species === "All Species" || pond.species.includes(species)) &&
+    pond.name.toLowerCase().includes(query.trim().toLowerCase())
+  );
+}
+
 function App() {
-  const [selectedPond, setSelectedPond] =
-    useState<Pond | null>(null);
-
-  const [speciesFilter, setSpeciesFilter] =
-    useState("All Species");
-
+  const [selectedPond, setSelectedPond] = useState<Pond | null>(null);
+  const [speciesFilter, setSpeciesFilter] = useState("All Species");
   const [searchQuery, setSearchQuery] = useState("");
 
-  // Collect unique species from all ponds
-  const allSpecies = [...new Set(ponds.flatMap(pond => pond.species))].sort();
+  const allSpecies = [...new Set(ponds.flatMap((pond) => pond.species))].sort();
+  const filteredPonds = ponds.filter((pond) => matchesFilters(pond, speciesFilter, searchQuery));
 
-  // Apply both filters to the pond dataset
-  const filteredPonds = ponds.filter(pond => {
-    const matchesSpecies =
-      speciesFilter === "All Species" ||
-      pond.species.includes(speciesFilter);
-
-    const matchesSearch = pond.name
-      .toLowerCase()
-      .includes(searchQuery.trim().toLowerCase());
-
-    return matchesSpecies && matchesSearch;
-  });
-
-  // Clear a selected pond if filters hide it
-  function updateFilters(newSpecies: string, newSearch: string) {
-  setSpeciesFilter(newSpecies);
-  setSearchQuery(newSearch);
-
-  if (selectedPond) {
-    const matchesSpecies =
-      newSpecies === "All Species" ||
-      selectedPond.species.includes(newSpecies);
-
-    const matchesSearch = selectedPond.name
-      .toLowerCase()
-      .includes(newSearch.trim().toLowerCase());
-
-    if (!matchesSpecies || !matchesSearch) {
+  function updateFilters(species: string, query: string) {
+    setSpeciesFilter(species);
+    setSearchQuery(query);
+    if (selectedPond && !matchesFilters(selectedPond, species, query)) {
       setSelectedPond(null);
     }
   }
-}
+
+  function resetFilters() {
+    updateFilters("All Species", "");
+  }
 
   return (
-    <div className="app">
-      <header className="app-header">
-        <h1>OpenFish</h1>
-        <p>Discover fishing spots and find the right bait.</p>
+    <div className="app-shell">
+      <header className="site-header">
+        <div className="brand"><span className="brand-mark" aria-hidden="true">◈</span><span>OpenFish</span></div>
+        <p>Find local waters. Choose your fish. Bring the right bait.</p>
+        <span className="free-pill">Free fishing guide</span>
       </header>
 
-      <div className="filters">
-        <input
-          type="text"
-          placeholder="Search ponds..."
-          value={searchQuery}
-          onChange={e =>
-            updateFilters(speciesFilter, e.target.value)
-          }
-        />
-
-        <select
-          value={speciesFilter}
-          onChange={e =>
-            updateFilters(e.target.value, searchQuery)
-          }
-        >
-          <option value="All Species">All Species</option>
-
-          {allSpecies.map(species => (
-            <option key={species} value={species}>
-              {species}
-            </option>
-          ))}
-        </select>
-
-        <span>
-          {filteredPonds.length} fishing locations found
-        </span>
-      </div>
-
-      <main className="app-content">
-        <div className="map-section">
-          <FishingMap
-            ponds={filteredPonds}
-            onSelectPond={setSelectedPond}
+      <section className="toolbar" aria-label="Filter fishing locations">
+        <label className="filter-field">
+          <span>Search locations</span>
+          <input
+            type="search"
+            placeholder="e.g. Indian Lake"
+            value={searchQuery}
+            onChange={(event) => updateFilters(speciesFilter, event.target.value)}
           />
+        </label>
+        <label className="filter-field">
+          <span>Target species</span>
+          <select value={speciesFilter} onChange={(event) => updateFilters(event.target.value, searchQuery)}>
+            <option value="All Species">All Species</option>
+            {allSpecies.map((species) => <option key={species} value={species}>{species}</option>)}
+          </select>
+        </label>
+        <div className="filter-status" role="status">
+          <strong>{filteredPonds.length}</strong> {filteredPonds.length === 1 ? "location" : "locations"} found
         </div>
+        <button className="ghost-button" type="button" onClick={resetFilters} disabled={speciesFilter === "All Species" && searchQuery === ""}>Clear filters</button>
+      </section>
 
-        <aside className="details-section">
-          <PondDetails
-            key={selectedPond?.id ?? "none"}
-            pond={selectedPond}
-          />
+      <main className="main-layout">
+        <section className="map-panel" aria-label="Fishing locations map">
+          <FishingMap ponds={filteredPonds} onSelectPond={setSelectedPond} selectedPondId={selectedPond?.id ?? null} />
+          {filteredPonds.length === 0 && (
+            <div className="map-empty" role="status">
+              <h2>No matching ponds</h2>
+              <p>Try another species or a different search.</p>
+              <button className="primary-button" type="button" onClick={resetFilters}>Show all locations</button>
+            </div>
+          )}
+          <div className="map-caption">Showing sample Massachusetts pond data · Fisheries records to be verified in Phase 2</div>
+        </section>
+        <aside className="sidebar" aria-label="Fishing location details">
+          <PondDetails key={selectedPond?.id ?? "none"} pond={selectedPond} />
         </aside>
       </main>
+      <footer className="site-footer">OpenFish · Species lists are provisional until sourced and verified.</footer>
     </div>
   );
 }
